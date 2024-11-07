@@ -1,0 +1,15 @@
+{
+    "layers": {
+        "b15a11a17e3f49dce2d92254381e15e4.25e36dccb1ca6ccd44b7e728cb50d221": {
+            "input_hash": "b15a11a17e3f49dce2d92254381e15e4",
+            "layer_file": "c7f75ef51cdbdd574bbea4cef8056f68",
+            "mod_name": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\Traducao PT-BR\\data\\config\\gui\\texts_english.xml",
+            "output_hash": "c7f75ef51cdbdd574bbea4cef8056f68",
+            "patch_hash": "25e36dccb1ca6ccd44b7e728cb50d221"
+        },
+        "order": [
+            "b15a11a17e3f49dce2d92254381e15e4.25e36dccb1ca6ccd44b7e728cb50d221"
+        ]
+    },
+    "version": "1.17"
+}
