@@ -1,0 +1,49 @@
+<ModOps>
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
+        <Text>
+            <GUID>1500010940</GUID>
+            <Text>Fábrica de Chá</Text>
+        </Text>
+        <Text>
+            <GUID>1500010848</GUID>
+            <Text>Fazenda de Ervas</Text>
+        </Text>
+        <Text>
+            <GUID>1500010849</GUID>
+            <Text>Ervas</Text>
+        </Text>
+        <Text>
+            <GUID>1500010943</GUID>
+            <Text>Campo de Ervas</Text>
+        </Text>
+        <Text>
+            <GUID>1500010945</GUID>
+            <Text>[AssetData(269193) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1500010959</GUID>
+            <Text>[AssetData(1500010847) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1500010847</GUID>
+            <Text>Chá</Text>
+        </Text>
+        <Text>
+            <GUID>1500011160</GUID>
+            <Text>Docas de Chá</Text>
+        </Text>
+        <Text>
+            <GUID>1500011161</GUID>
+            <Text>Chá Importado</Text>
+        </Text>
+        <Text>
+            <GUID>1500011162</GUID>
+            <Text>Fábrica de Chá Antiga</Text>
+        </Text>
+        <Text>
+            <GUID>1500011443</GUID>
+            <Text>Fábrica de Chá</Text>
+        </Text>
+    </ModOp>
+</ModOps>

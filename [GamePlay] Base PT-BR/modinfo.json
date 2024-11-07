@@ -1,0 +1,20 @@
+{
+    "Version": "0.0.1",
+    "ModID": "tupicode_anno1900-ptbr-base",
+    "IncompatibleIds": null,
+    "ModDependencies": null,
+    "Category": {
+      "Chinese": null,
+      "English": "Gameplay",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "LoadAfterIds": [ "*" ]
+}

@@ -1,0 +1,33 @@
+{
+    "Version": "0.0.2",
+    "ModID": "tupicode_anno1900-ptbr",
+    "IncompatibleIds": null,
+    "ModDependencies": null,
+    "Category": {
+      "Chinese": null,
+      "English": "Gameplay",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "ModName": {
+      "Chinese": "Tradução PT-BR",
+      "English": "Tradução PT-BR",
+      "French": "Tradução PT-BR",
+      "German": "Tradução PT-BR",
+      "Italian": "Tradução PT-BR",
+      "Japanese": "Tradução PT-BR",
+      "Korean": "Tradução PT-BR",
+      "Polish": "Tradução PT-BR",
+      "Russian": "Tradução PT-BR",
+      "Spanish": "Tradução PT-BR",
+      "Taiwanese": "Tradução PT-BR"
+    },
+    "LoadAfterIds": [ "*" ]
+}
