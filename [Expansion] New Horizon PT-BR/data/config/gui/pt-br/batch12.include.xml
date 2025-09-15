@@ -1,0 +1,325 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>54005000</GUID>
+      <Text>EXPANSÃO ORIENTAL</Text>
+    </Text>
+    <Text>
+      <GUID>54005001</GUID>
+      <Text>DESENVOLVIMENTO ESTRANGEIRO</Text>
+    </Text>
+    <Text>
+      <GUID>54005002</GUID>
+      <Text>IMPERIALISMO</Text>
+    </Text>
+    <Text>
+      <GUID>14443001</GUID>
+      <Text>Píeres</Text>
+    </Text>
+    <Text>
+      <GUID>14443002</GUID>
+      <Text>Postos Comerciais</Text>
+    </Text>
+    <Text>
+      <GUID>14443003</GUID>
+      <Text>Píeres</Text>
+    </Text>
+    <Text>
+      <GUID>14443004</GUID>
+      <Text>Grandes Bertas</Text>
+    </Text>
+    <Text>
+      <GUID>14443005</GUID>
+      <Text>Píeres de Carga e Postos Comerciais</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Todos os Edifícios Culturais</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Portos de Petróleo e Píeres</Text>
+    </Text>
+    <Text>
+      <GUID>14443033</GUID>
+      <Text>Todas as Multifábricas Horaiesas</Text>
+    </Text>
+    <Text>
+      <GUID>14443042</GUID>
+      <Text>Todas as Cozinhas Coletivas Horaiesas</Text>
+    </Text>
+    <Text>
+      <GUID>14443043</GUID>
+      <Text>Todas as Cozinhas Horaiesas</Text>
+    </Text>
+    <Text>
+      <GUID>14443037</GUID>
+      <Text>Residências de Magnatas</Text>
+    </Text>
+    <Text>
+      <GUID>14443036</GUID>
+      <Text>Arranha-céus de Magnatas</Text>
+    </Text>
+    <Text>
+      <GUID>14443016</GUID>
+      <Text>Todas as Fazendas Horaiesas</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>Negócios de Magnatas</Text>
+    </Text>
+    <Text>
+      <GUID>14443030</GUID>
+      <Text>Residências Horaiesas</Text>
+    </Text>
+    <Text>
+      <GUID>1414006788</GUID>
+      <Text>Todos os Serviços Públicos, exceto Jardim</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006407</GUID>
+      <Text>Clique e receba o Presente: Barco de Carga</Text>
+    </Text>
+    <Text>
+      <GUID>1414006609</GUID>
+      <Text>O Magnata está satisfeito com as vendas de bilhetes do metrô.</Text>
+    </Text>
+    <Text><!-- Goodwill Payout Quest Title -->
+      <GUID>1414040450</GUID>
+      <Text>Cobrando a Conta</Text>
+    </Text>
+    <!-- Buildings -->
+    <Text>
+      <GUID>1446010</GUID>
+      <Text>Armazém de Grãos</Text>
+    </Text>
+    <Text>
+      <GUID>1442504</GUID>
+      <Text>Arranha-céu de Magnata: Nível 1</Text>
+    </Text>
+    <Text>
+      <GUID>1442505</GUID>
+      <Text>Arranha-céu de Magnata: Nível 2</Text>
+    </Text>
+    <Text>
+      <GUID>1442506</GUID>
+      <Text>Arranha-céu de Magnata: Nível 3</Text>
+    </Text>
+    <Text>
+      <GUID>1442507</GUID>
+      <Text>Arranha-céu de Magnata: Nível 4</Text>
+    </Text>
+    <Text>
+      <GUID>1447915</GUID>
+      <Text>Sindicato</Text>
+    </Text>
+    <Text>
+      <GUID>1447916</GUID>
+      <Text>Prefeitura</Text>
+    </Text>
+    <Text>
+      <GUID>1447914</GUID>
+      <Text>Capitania dos Portos</Text>
+    </Text>
+    <Text>
+      <GUID>1414015026</GUID>
+      <Text>Porto do Almirante Wu Guowei</Text>
+    </Text>
+    <Text>
+      <GUID>1414015035</GUID>
+      <Text>Escritório</Text>
+    </Text>
+    <Text>
+      <GUID>1414015036</GUID>
+      <Text>Prisão</Text>
+    </Text>
+    <Text>
+      <GUID>1414015037</GUID>
+      <Text>Morteiro de Bola de Fogo</Text>
+    </Text>
+    <Text>
+      <GUID>1414015032</GUID>
+      <Text>Posição Antiaérea</Text>
+    </Text>
+    <Text>
+      <GUID>1414015027</GUID>
+      <Text>Torre de Canhão</Text>
+    </Text>
+    <Text>
+      <GUID>1414015042</GUID>
+      <Text>Hwacha</Text>
+    </Text>
+    <Text>
+      <GUID>14740081</GUID>
+      <Text>Cruzador de Batalha</Text>
+    </Text>
+    <Text>
+      <GUID>14740083</GUID>
+      <Text>Monitor</Text>
+    </Text>
+    <Text>
+      <GUID>14740082</GUID>
+      <Text>Cruzador de Cerco</Text>
+    </Text>
+    <Text>
+      <GUID>1414006699</GUID>
+      <Text>Muito eficaz contra navios.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006700</GUID>
+      <Text>Suprime as defesas da ilha.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006701</GUID>
+      <Text>Especializado em queimar edifícios portuários rapidamente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015045</GUID>
+      <Text>Cabeça de Leão</Text>
+    </Text>
+    <Text>
+      <GUID>1414015047</GUID>
+      <Text>Coberto de Óleo!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015048</GUID>
+      <Text>Poças de Óleo!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015049</GUID>
+      <Text>Resíduo de Óleo!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006706</GUID>
+      <Text>&lt;img src=&apos;data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png&apos; height=&apos;24&apos; width=&apos;24&apos; /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; healthpoint]&lt;/font&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1414015039</GUID>
+      <Text>Fortaleza do Navarca Pirfórico</Text>
+    </Text>
+    <Text>
+      <GUID>1414015053</GUID>
+      <Text>Lança-chamas</Text>
+    </Text>
+    <Text>
+      <GUID>1414015058</GUID>
+      <Text>Olho do Dragão</Text>
+    </Text>
+    <!-- Random Ship Duplicates -->
+    <Text>
+      <GUID>14740075</GUID>
+      <Text>Cargueiro a Granel</Text>
+    </Text>
+    <Text>
+      <GUID>14740076</GUID>
+      <Text>Cargueiro a Granel</Text>
+    </Text>
+    <Text>
+      <GUID>14740077</GUID>
+      <Text>Cargueiro a Granel</Text>
+    </Text>
+    <Text>
+      <GUID>1414006623</GUID>
+      <Text>Navio de Suprimentos de Sir Blake</Text>
+    </Text>
+    <Text>
+      <GUID>1414006624</GUID>
+      <Text>Navio de Suprimentos de Madame Kahina</Text>
+    </Text>
+    <Text>
+      <GUID>1414006625</GUID>
+      <Text>Navio de Suprimentos de Eli Bleakworth</Text>
+    </Text>
+    <Text>
+      <GUID>1414006626</GUID>
+      <Text>Navio de Suprimentos de Anne Harlow</Text>
+    </Text>
+    <Text>
+      <GUID>1414006627</GUID>
+      <Text>Navio de Suprimentos de Isabel</Text>
+    </Text>
+    <Text>
+      <GUID>1414006628</GUID>
+      <Text>Navio de Suprimentos de Jean La Fortune</Text>
+    </Text>
+    <Text>
+      <GUID>1414006629</GUID>
+      <Text>Navio de Suprimentos de Old Nate</Text>
+    </Text>
+    <!-- Random stuff -->
+    <Text>
+      <GUID>1414006472</GUID>
+      <Text>BOB &amp; Filhos</Text>
+    </Text>
+    <Text>
+      <GUID>1414006473</GUID>
+      <Text>Não há nada que você não possa construir com os materiais de construção da Bob &amp; Filhos.</Text>
+    </Text>
+    <Text>
+      <GUID>14740078</GUID>
+      <Text>Trabalhadores Andarilhos</Text>
+    </Text>
+    <Text>
+      <GUID>1414006475</GUID>
+      <Text>Motivação Cultural</Text>
+    </Text>
+    <Text>
+      <GUID>1414006542</GUID>
+      <Text>O Gōngrén conta sobre essas ruínas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006630</GUID>
+      <Text>Negócio de Magnata</Text>
+    </Text>
+    <Text>
+      <GUID>1414006631</GUID>
+      <Text>Acredito que sub-empresas privadas são o futuro. É uma pena que a Coroa ainda esteja anos atrasada nessa linha de pensamento. Felizmente para nós, o Império não tem voz no atol.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006632</GUID>
+      <Text>Então, aqui está o acordo: Você investe em fábricas em Horai, e nós as compramos de você. Pagaremos parte dos custos operacionais e lidaremos com quaisquer problemas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006633</GUID>
+      <Text>Meu retorno? Bem, não estou pedindo muito, só quero manter minha parte justa dos lucros, se você entende.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006634</GUID>
+      <Text>Frequentemente reservados para festivais, mas não se pode resistir ao seu estilo e conforto todos os dias.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006635</GUID>
+      <Text>Comida rápida para ursos panda. Eles devem comer ou morrer!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006636</GUID>
+      <Text>O material de parede perfeito nessas condições climáticas úmidas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006638</GUID>
+      <Text>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006639</GUID>
+      <Text>Pequenas esculturas e ornamentos esculpidos em Jade, que ainda está para ser descoberto em Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006640</GUID>
+      <Text>Uma parte do Extremo Oriente que lembra seu povo de suas origens.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006641</GUID>
+      <Text>Intensamente aromático e produzido em massa, apenas alguns seletos sabem como fazê-lo adequadamente — uma receita mais secreta que a daquela nova bebida Cola Mola Wola.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006642</GUID>
+      <Text>Parece uma arma e cheira a lixo, mas sua carne doce e cremosa é valorizada mesmo assim.</Text>
+    </Text>
+    <!-- Goodwills Export Tutorial -->
+    <Text>
+      <GUID>1414006565</GUID>
+      <Text>&lt;font size = &quot;14&quot;&gt;&lt;font size = &quot;32&quot;&gt;CONTRATO COMERCIAL&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;&lt;font size = &quot;18&quot;&gt;§1 Modo de Entrega&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§1.1 Você pode trazer mercadorias para o navio de armazenamento da A.C.O. em Omega Haven. A entrega pode acontecer a qualquer momento. A A.C.O. então armazenará essas mercadorias em seu armazenamento em massa até que o armazenamento esteja cheio. &lt;br/&gt;§1.2 A A.C.O. só aceita remessas pré-embaladas. As quantidades detalhadas estão listadas na §3. &lt;br/&gt;§1.3 Ao atingir a capacidade total de armazenamento, Você é obrigado a exportar as mercadorias armazenadas para um comprador à escolha da A.C.O. antes de trazer mais mercadorias.&lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§2 Mercadorias a entregar&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§2.1 Mercadorias de cinco categorias podem ser entregues à A.C.O.: Drogas, Valores, Álcool, Luxos, Armas. Explicação adicional na §4.&lt;br /&gt;§2.2 A A.C.O. tem armazenamento independente para essas cinco categorias. &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§3 Quantidades de mercadorias por Entrega&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§3.1 Drogas: 10t &lt;br/&gt;§3.2 Valores: 10t &lt;br/&gt;§3.3 Álcool: 200t &lt;br/&gt;§3.4 Luxos: 100t &lt;br/&gt;§3.4 Armas: 50t &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§4 Tipos de Mercadorias&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§4.1 Drogas: Drogas &lt;br/&gt;§4.2 Valores: Valores &lt;br/&gt;§4.3 Álcool: Aguardente, Cerveja, Rum, Champanhe, Conhaque, Umeshu, Saquê &lt;br/&gt;§4.4 Luxos: Xampu, Limonada, Charutos, Cachimbos de Tabaco, Cânhamo, Fonógrafos, Joias, Carruagens a Vapor, Telefones, Rádios, Canetas, Violinos, Mesas de Bilhar &lt;br/&gt;§4.5 Armas: Armas, Armas Avançadas, Dinamite, Motores a Vapor, Bombas, Minas Marítimas.&lt;/font&gt;</Text>
+    </Text>
+  </ModOp>
+</ModOps>

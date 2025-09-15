@@ -1,0 +1,668 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+
+        <!-- Customs Duty Items -->
+
+        <Text>
+            <GUID>1414009000</GUID>
+            <Text>Taxa Alfandegária: Peixe</Text>
+        </Text>
+        <Text>
+            <GUID>1414009001</GUID>
+            <Text>Taxa Alfandegária: Peixe</Text>
+        </Text>
+        <Text>
+            <GUID>1414009003</GUID>
+            <Text>Taxa Alfandegária: Aguardente</Text>
+        </Text>
+        <Text>
+            <GUID>1414009004</GUID>
+            <Text>Taxa Alfandegária: Aguardente</Text>
+        </Text>
+        <Text>
+            <GUID>1414009006</GUID>
+            <Text>Taxa Alfandegária: Roupas de Trabalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414009007</GUID>
+            <Text>Taxa Alfandegária: Roupas de Trabalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414009009</GUID>
+            <Text>Taxa Alfandegária: Salsichas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009010</GUID>
+            <Text>Taxa Alfandegária: Salsichas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009012</GUID>
+            <Text>Taxa Alfandegária: Pão</Text>
+        </Text>
+        <Text>
+            <GUID>1414009013</GUID>
+            <Text>Taxa Alfandegária: Pão</Text>
+        </Text>
+        <Text>
+            <GUID>1414009015</GUID>
+            <Text>Taxa Alfandegária: Sabão</Text>
+        </Text>
+        <Text>
+            <GUID>1414009016</GUID>
+            <Text>Taxa Alfandegária: Sabão</Text>
+        </Text>
+        <Text>
+            <GUID>1414009018</GUID>
+            <Text>Taxa Alfandegária: Cerveja</Text>
+        </Text>
+        <Text>
+            <GUID>1414009019</GUID>
+            <Text>Taxa Alfandegária: Cerveja</Text>
+        </Text>
+        <Text>
+            <GUID>1414009021</GUID>
+            <Text>Taxa Alfandegária: Comida Enlatada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009022</GUID>
+            <Text>Taxa Alfandegária: Comida Enlatada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009024</GUID>
+            <Text>Taxa Alfandegária: Máquinas de Costura</Text>
+        </Text>
+        <Text>
+            <GUID>1414009025</GUID>
+            <Text>Taxa Alfandegária: Máquinas de Costura</Text>
+        </Text>
+        <Text>
+            <GUID>1414009027</GUID>
+            <Text>Taxa Alfandegária: Rum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009028</GUID>
+            <Text>Taxa Alfandegária: Rum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009030</GUID>
+            <Text>Taxa Alfandegária: Casacos de Pele</Text>
+        </Text>
+        <Text>
+            <GUID>1414009031</GUID>
+            <Text>Taxa Alfandegária: Casacos de Pele</Text>
+        </Text>
+        <Text>
+            <GUID>1414009033</GUID>
+            <Text>Taxa Alfandegária: Óculos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009034</GUID>
+            <Text>Taxa Alfandegária: Óculos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009036</GUID>
+            <Text>Taxa Alfandegária: Velocípedes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009037</GUID>
+            <Text>Taxa Alfandegária: Velocípedes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009039</GUID>
+            <Text>Taxa Alfandegária: Relógios de Bolso</Text>
+        </Text>
+        <Text>
+            <GUID>1414009040</GUID>
+            <Text>Taxa Alfandegária: Relógios de Bolso</Text>
+        </Text>
+        <Text>
+            <GUID>1414009042</GUID>
+            <Text>Taxa Alfandegária: Café</Text>
+        </Text>
+        <Text>
+            <GUID>1414009043</GUID>
+            <Text>Taxa Alfandegária: Café</Text>
+        </Text>
+        <Text>
+            <GUID>1414009045</GUID>
+            <Text>Taxa Alfandegária: Lâmpadas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009046</GUID>
+            <Text>Taxa Alfandegária: Lâmpadas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009048</GUID>
+            <Text>Taxa Alfandegária: Champanhe</Text>
+        </Text>
+        <Text>
+            <GUID>1414009049</GUID>
+            <Text>Taxa Alfandegária: Champanhe</Text>
+        </Text>
+        <Text>
+            <GUID>1414009051</GUID>
+            <Text>Taxa Alfandegária: Charutos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009052</GUID>
+            <Text>Taxa Alfandegária: Charutos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009054</GUID>
+            <Text>Taxa Alfandegária: Chocolate</Text>
+        </Text>
+        <Text>
+            <GUID>1414009055</GUID>
+            <Text>Taxa Alfandegária: Chocolate</Text>
+        </Text>
+        <Text>
+            <GUID>1414009057</GUID>
+            <Text>Taxa Alfandegária: Joias</Text>
+        </Text>
+        <Text>
+            <GUID>1414009058</GUID>
+            <Text>Taxa Alfandegária: Joias</Text>
+        </Text>
+        <Text>
+            <GUID>1414009060</GUID>
+            <Text>Taxa Alfandegária: Gramofones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009061</GUID>
+            <Text>Taxa Alfandegária: Gramofones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009063</GUID>
+            <Text>Taxa Alfandegária: Carruagens a Vapor</Text>
+        </Text>
+        <Text>
+            <GUID>1414009064</GUID>
+            <Text>Taxa Alfandegária: Carruagens a Vapor</Text>
+        </Text>
+        <Text>
+            <GUID>1414009066</GUID>
+            <Text>Taxa Alfandegária: Botas de Couro</Text>
+        </Text>
+        <Text>
+            <GUID>1414009067</GUID>
+            <Text>Taxa Alfandegária: Botas de Couro</Text>
+        </Text>
+        <Text>
+            <GUID>1414009069</GUID>
+            <Text>Taxa Alfandegária: Cartolas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009070</GUID>
+            <Text>Taxa Alfandegária: Cartolas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009072</GUID>
+            <Text>Taxa Alfandegária: Chá de Hibisco</Text>
+        </Text>
+        <Text>
+            <GUID>1414009073</GUID>
+            <Text>Taxa Alfandegária: Chá de Hibisco</Text>
+        </Text>
+        <Text>
+            <GUID>1414009075</GUID>
+            <Text>Taxa Alfandegária: Ternos Sob Medida</Text>
+        </Text>
+        <Text>
+            <GUID>1414009076</GUID>
+            <Text>Taxa Alfandegária: Ternos Sob Medida</Text>
+        </Text>
+        <Text>
+            <GUID>1414009078</GUID>
+            <Text>Taxa Alfandegária: Ensopado de Frutos do Mar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009079</GUID>
+            <Text>Taxa Alfandegária: Ensopado de Frutos do Mar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009081</GUID>
+            <Text>Taxa Alfandegária: Tapeçarias</Text>
+        </Text>
+        <Text>
+            <GUID>1414009082</GUID>
+            <Text>Taxa Alfandegária: Tapeçarias</Text>
+        </Text>
+        <Text>
+            <GUID>1414009084</GUID>
+            <Text>Taxa Alfandegária: Cachimbo de Barro</Text>
+        </Text>
+        <Text>
+            <GUID>1414009085</GUID>
+            <Text>Taxa Alfandegária: Cachimbo de Barro</Text>
+        </Text>
+        <Text>
+            <GUID>1414009087</GUID>
+            <Text>Taxa Alfandegária: Telefones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009088</GUID>
+            <Text>Taxa Alfandegária: Telefones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009090</GUID>
+            <Text>Taxa Alfandegária: Bananas Fritas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009091</GUID>
+            <Text>Taxa Alfandegária: Bananas Fritas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009093</GUID>
+            <Text>Taxa Alfandegária: Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009094</GUID>
+            <Text>Taxa Alfandegária: Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009096</GUID>
+            <Text>Taxa Alfandegária: Tortilhas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009097</GUID>
+            <Text>Taxa Alfandegária: Tortilhas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009099</GUID>
+            <Text>Taxa Alfandegária: Pemmican</Text>
+        </Text>
+        <Text>
+            <GUID>1414009100</GUID>
+            <Text>Taxa Alfandegária: Pemmican</Text>
+        </Text>
+        <Text>
+            <GUID>1414009102</GUID>
+            <Text>Taxa Alfandegária: Sacos de Dormir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009103</GUID>
+            <Text>Taxa Alfandegária: Sacos de Dormir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009105</GUID>
+            <Text>Taxa Alfandegária: Lamparinas a Óleo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009106</GUID>
+            <Text>Taxa Alfandegária: Lamparinas a Óleo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009108</GUID>
+            <Text>Taxa Alfandegária: Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009109</GUID>
+            <Text>Taxa Alfandegária: Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009111</GUID>
+            <Text>Taxa Alfandegária: Trenós de Husky</Text>
+        </Text>
+        <Text>
+            <GUID>1414009112</GUID>
+            <Text>Taxa Alfandegária: Trenós de Husky</Text>
+        </Text>
+        <Text>
+            <GUID>1414009114</GUID>
+            <Text>Taxa Alfandegária: Leite de Cabra</Text>
+        </Text>
+        <Text>
+            <GUID>1414009115</GUID>
+            <Text>Taxa Alfandegária: Leite de Cabra</Text>
+        </Text>
+        <Text>
+            <GUID>1414009117</GUID>
+            <Text>Taxa Alfandegária: Refinamento</Text>
+        </Text>
+        <Text>
+            <GUID>1414009118</GUID>
+            <Text>Taxa Alfandegária: Refinamento</Text>
+        </Text>
+        <Text>
+            <GUID>1414009120</GUID>
+            <Text>Taxa Alfandegária: Carne Seca</Text>
+        </Text>
+        <Text>
+            <GUID>1414009121</GUID>
+            <Text>Taxa Alfandegária: Carne Seca</Text>
+        </Text>
+        <Text>
+            <GUID>1414009123</GUID>
+            <Text>Taxa Alfandegária: Cerâmicas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009124</GUID>
+            <Text>Taxa Alfandegária: Cerâmicas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009126</GUID>
+            <Text>Taxa Alfandegária: Manuscritos Iluminados</Text>
+        </Text>
+        <Text>
+            <GUID>1414009127</GUID>
+            <Text>Taxa Alfandegária: Manuscritos Iluminados</Text>
+        </Text>
+        <Text>
+            <GUID>1414009129</GUID>
+            <Text>Taxa Alfandegária: Lanternas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009130</GUID>
+            <Text>Taxa Alfandegária: Lanternas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009132</GUID>
+            <Text>Taxa Alfandegária: Rádio</Text>
+        </Text>
+        <Text>
+            <GUID>1414009133</GUID>
+            <Text>Taxa Alfandegária: Rádio</Text>
+        </Text>
+        <Text>
+            <GUID>1414009135</GUID>
+            <Text>Taxa Alfandegária: Canetas-tinteiro</Text>
+        </Text>
+        <Text>
+            <GUID>1414009136</GUID>
+            <Text>Taxa Alfandegária: Canetas-tinteiro</Text>
+        </Text>
+        <Text>
+            <GUID>1414009138</GUID>
+            <Text>Taxa Alfandegária: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009139</GUID>
+            <Text>Taxa Alfandegária: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009141</GUID>
+            <Text>Taxa Alfandegária: Queijo Azul</Text>
+        </Text>
+        <Text>
+            <GUID>1414009142</GUID>
+            <Text>Taxa Alfandegária: Queijo Azul</Text>
+        </Text>
+        <Text>
+            <GUID>1414009144</GUID>
+            <Text>Taxa Alfandegária: Porcelana</Text>
+        </Text>
+        <Text>
+            <GUID>1414009145</GUID>
+            <Text>Taxa Alfandegária: Porcelana</Text>
+        </Text>
+        <Text>
+            <GUID>1414009147</GUID>
+            <Text>Taxa Alfandegária: Chapéus Cônicos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009148</GUID>
+            <Text>Taxa Alfandegária: Chapéus Cônicos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009150</GUID>
+            <Text>Taxa Alfandegária: Saquê</Text>
+        </Text>
+        <Text>
+            <GUID>1414009151</GUID>
+            <Text>Taxa Alfandegária: Saquê</Text>
+        </Text>
+        <Text>
+            <GUID>1414009153</GUID>
+            <Text>Taxa Alfandegária: Oshi-Sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009154</GUID>
+            <Text>Taxa Alfandegária: Oshi-Sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009156</GUID>
+            <Text>Taxa Alfandegária: Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009157</GUID>
+            <Text>Taxa Alfandegária: Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009159</GUID>
+            <Text>Taxa Alfandegária: Chá Verde</Text>
+        </Text>
+        <Text>
+            <GUID>1414009160</GUID>
+            <Text>Taxa Alfandegária: Chá Verde</Text>
+        </Text>
+        <Text>
+            <GUID>1414009162</GUID>
+            <Text>Taxa Alfandegária: Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009163</GUID>
+            <Text>Taxa Alfandegária: Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009165</GUID>
+            <Text>Taxa Alfandegária: Pato Assado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009166</GUID>
+            <Text>Taxa Alfandegária: Pato Assado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009168</GUID>
+            <Text>Taxa Alfandegária: Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009169</GUID>
+            <Text>Taxa Alfandegária: Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009171</GUID>
+            <Text>Taxa Alfandegária: Coletes de Seda</Text>
+        </Text>
+        <Text>
+            <GUID>1414009172</GUID>
+            <Text>Taxa Alfandegária: Coletes de Seda</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414009174</GUID>
+            <Text>Taxa Alfandegária: Geleia</Text>
+        </Text>
+        <Text>
+            <GUID>1414009175</GUID>
+            <Text>Taxa Alfandegária: Geleia</Text>
+        </Text>
+        <Text>
+            <GUID>1414009177</GUID>
+            <Text>Taxa Alfandegária: Xampu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009178</GUID>
+            <Text>Taxa Alfandegária: Xampu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009183</GUID>
+            <Text>Taxa Alfandegária: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009184</GUID>
+            <Text>Taxa Alfandegária: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009189</GUID>
+            <Text>Taxa Alfandegária: Lembranças</Text>
+        </Text>
+        <Text>
+            <GUID>1414009190</GUID>
+            <Text>Taxa Alfandegária: Lembranças</Text>
+        </Text>
+        <Text>
+            <GUID>1414009191</GUID>
+            <Text>Taxa Alfandegária: Chiclete</Text>
+        </Text>
+        <Text>
+            <GUID>1414009192</GUID>
+            <Text>Taxa Alfandegária: Chiclete</Text>
+        </Text>
+        <Text>
+            <GUID>1414009194</GUID>
+            <Text>Taxa Alfandegária: Biscoitos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009195</GUID>
+            <Text>Taxa Alfandegária: Biscoitos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009197</GUID>
+            <Text>Taxa Alfandegária: Conhaque</Text>
+        </Text>
+        <Text>
+            <GUID>1414009198</GUID>
+            <Text>Taxa Alfandegária: Conhaque</Text>
+        </Text>
+        <Text>
+            <GUID>1414009200</GUID>
+            <Text>Taxa Alfandegária: Máquina de Escrever</Text>
+        </Text>
+        <Text>
+            <GUID>1414009201</GUID>
+            <Text>Taxa Alfandegária: Máquina de Escrever</Text>
+        </Text>
+        <Text>
+            <GUID>1414009203</GUID>
+            <Text>Taxa Alfandegária: Mesas de Bilhar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009204</GUID>
+            <Text>Taxa Alfandegária: Mesas de Bilhar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009206</GUID>
+            <Text>Taxa Alfandegária: Violinos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009207</GUID>
+            <Text>Taxa Alfandegária: Violinos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009209</GUID>
+            <Text>Taxa Alfandegária: Brinquedos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009210</GUID>
+            <Text>Taxa Alfandegária: Brinquedos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009213</GUID>
+            <Text>Taxa Alfandegária: Bolas de Futebol</Text>
+        </Text>
+        <Text>
+            <GUID>1414009214</GUID>
+            <Text>Taxa Alfandegária: Bolas de Futebol</Text>
+        </Text>
+        <Text>
+            <GUID>1414009216</GUID>
+            <Text>Taxa Alfandegária: Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009217</GUID>
+            <Text>Taxa Alfandegária: Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009219</GUID>
+            <Text>Taxa Alfandegária: Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009220</GUID>
+            <Text>Taxa Alfandegária: Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009222</GUID>
+            <Text>Taxa Alfandegária: Sorvete</Text>
+        </Text>
+        <Text>
+            <GUID>1414009223</GUID>
+            <Text>Taxa Alfandegária: Sorvete</Text>
+        </Text>
+        <Text>
+            <GUID>1414009225</GUID>
+            <Text>Taxa Alfandegária: Perfumes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009226</GUID>
+            <Text>Taxa Alfandegária: Perfumes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009228</GUID>
+            <Text>Taxa Alfandegária: Leques</Text>
+        </Text>
+        <Text>
+            <GUID>1414009229</GUID>
+            <Text>Taxa Alfandegária: Leques</Text>
+        </Text>
+        <Text>
+            <GUID>1414009231</GUID>
+            <Text>Taxa Alfandegária: Patinete</Text>
+        </Text>
+        <Text>
+            <GUID>1414009232</GUID>
+            <Text>Taxa Alfandegária: Patinete</Text>
+        </Text>
+        <Text>
+            <GUID>1414009234</GUID>
+            <Text>Taxa Alfandegária: Molho Picante</Text>
+        </Text>
+        <Text>
+            <GUID>1414009235</GUID>
+            <Text>Taxa Alfandegária: Molho Picante</Text>
+        </Text>
+        <Text>
+            <GUID>1414009237</GUID>
+            <Text>Taxa Alfandegária: Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009238</GUID>
+            <Text>Taxa Alfandegária: Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009240</GUID>
+            <Text>Taxa Alfandegária: Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009241</GUID>
+            <Text>Taxa Alfandegária: Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009243</GUID>
+            <Text>Taxa Alfandegária: Literatura</Text>
+        </Text>
+        <Text>
+            <GUID>1414009244</GUID>
+            <Text>Taxa Alfandegária: Literatura</Text>
+        </Text>
+        <Text>
+            <GUID>1414009246</GUID>
+            <Text>Taxa Alfandegária: Incenso</Text>
+        </Text>
+        <Text>
+            <GUID>1414009247</GUID>
+            <Text>Taxa Alfandegária: Incenso</Text>
+        </Text>
+        <Text>
+            <GUID>1414009249</GUID>
+            <Text>Taxa Alfandegária: Frutas Durian</Text>
+        </Text>
+        <Text>
+            <GUID>1414009250</GUID>
+            <Text>Taxa Alfandegária: Frutas Durian</Text>
+        </Text>
+        <Text>
+            <GUID>1414006029</GUID>
+            <Text>Se a taxa alfandegária for ativada em um posto comercial, ela também será aplicada a todos os píeres daquela ilha.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,286 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Ships -->
+    <Text>
+      <GUID>1414006566</GUID>
+      <Text>Este navio será confundido com um navio do Império Tianming.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006568</GUID>
+      <Text>Um estilo antigo e tradicional de navio encontrado em Horai. Embora resistente, dificilmente atende aos padrões modernos — mas pelo menos ninguém pensará que este navio pertence a você.</Text>
+    </Text>
+    <Text>
+      <GUID>14740116</GUID>
+      <Text>Pinas</Text>
+    </Text>
+    <Text>
+      <GUID>1414018223</GUID>
+      <Text>Uma canhoneira excepcionalmente rápida que dispara balas acorrentadas para quebrar os mastros de navios inimigos. Excelente em perseguir inimigos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018224</GUID>
+      <Text>Um pequeno navio mercante que pode transportar pequenas quantidades de carga entre ilhas.</Text>
+    </Text>
+    <Text>
+      <GUID>14740117</GUID>
+      <Text>Balas Acorrentadas</Text>
+    </Text>
+    <Text>
+      <GUID>14740127</GUID>
+      <Text>Cargueiro Implacável do Goodwill</Text>  <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740129</GUID>
+      <Text>Cargueiro Implacável do Goodwill</Text> <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740126</GUID>
+      <Text>Junco Rancoroso do Wu Guowei</Text> <!-- Flavored Shipname-->
+    </Text>
+    <!-- Goodwill's Island texts -->
+    <Text>
+      <GUID>1414006074</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] avistou uma oportunidade na recente crise econômica.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006075</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] o convida a se estabelecer no Extremo Oriente.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006403</GUID>
+      <Text>Seguindo a reforma da Agência de Comércio Oriental nos últimos anos, a atividade econômica com o Império Tianming aumentou significativamente, um desenvolvimento que as estruturas antigas tentaram impedir por força brutal e injustificada. Depois que o Almirante Seymour pacificou a região, o crescimento livre e justo para todos os comerciantes estrangeiros é garantido pelo 'Tratado de Igualdade'. Navegue para o leste para reivindicar seu direito a um assentamento concessionário.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006404</GUID>
+      <Text>Termine a expedição e entre em Horai para progredir em sua jornada.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006405</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] o recebe bem-vindo a Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006406</GUID>
+      <Text>Goodwill fornece um navio inicial para você estabelecer seus primeiros assentamentos. Quanto mais cedo esta colônia for estabelecida, melhor. A própria Rainha não ousaria vasculhar território controlado por um servo tão leal.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1446111</GUID>
+      <Text>Navio de Carga de James Goodwill</Text>
+    </Text>
+    <Text>
+      <GUID>1446113</GUID>
+      <Text>Farol de James Goodwill</Text>
+    </Text>
+    <Text>
+      <GUID>1414040002</GUID>
+      <Text>O Tratado de Igualdade</Text>
+    </Text>
+    <Text>
+      <GUID>1414040004</GUID>
+      <Text>Começando Grandes Negócios</Text>
+    </Text>
+    <Text>
+      <GUID>14740074</GUID>
+      <Text>Oficina de Artesanato A.C.O.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006548</GUID>
+      <Text>TRATADO DE IGUALDADE ASSINADO</Text>
+    </Text>
+    <Text>
+      <GUID>1414006549</GUID>
+      <Text>Uma vitória decisiva para nossa gloriosa Rainha ++ Tratado de paz para acabar com os atos de pirataria do Trono Oriental contra nossas rotas comerciais nacionais +++ Regiões de assentamento concessionário concedidas como reparações, governadores tomam controle direto +++ Mais na Página 3</Text>
+    </Text>
+    <Text>
+      <GUID>1414006550</GUID>
+      <Text>Alguns trabalhadores estão desmontando este navio antigo. Provavelmente procurando ter algumas peças sobressalentes para reparos no armazém mais tarde, é!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006553</GUID>
+      <Text>Vigiando espiões, trabalhadores preguiçosos e navios se aproximando na distância.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006554</GUID>
+      <Text>Devido a longo abandono e eventual deterioração, este antigo monitor foi finalmente encalhado e reaproveitado como um canhão estacionário.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006555</GUID>
+      <Text>Remédios totalmente legais contra dores de cabeça e gripe comum.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006556</GUID>
+      <Text>Arte, ouro e diamantes, todas aquisições honestas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006558</GUID>
+      <Text>Fabricado com cuidado especial para qualidade e pureza.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006559</GUID>
+      <Text>20% de Taxa de Importação sobre isso? Eles vão peneirar cada moeda! Como ousam!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006560</GUID>
+      <Text>Destinado às mãos de homens justos, para ser usado apenas para propósitos pacíficos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015008</GUID>
+      <Text>Vila Colonial do Goodwill</Text>
+    </Text>
+    <Text>
+      <GUID>1414006557</GUID>
+      <Text>Contrabando</Text>
+    </Text>
+    <Text>
+      <GUID>1414040202</GUID>
+      <Text>Comboio Real: Afunde este navio para obter entorpecentes ou objetos de valor.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006561</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] pergunta se você está pronto para transferir o contrabando para seu armazém.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006562</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] guardou o contrabando em seus armazéns.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006563</GUID>
+      <Text>Armazém de Contrabando</Text>
+    </Text>
+    <Text>
+      <GUID>1414006564</GUID>
+      <Text>James Goodwill quer saber se pode levar os Entorpecentes do seu Navio para seu armazém.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006569</GUID>
+      <Text>James Goodwill quer saber se pode levar os Objetos de Valor do seu Navio para seu armazém.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006570</GUID>
+      <Text>James Goodwill quer saber se pode levar as Bebidas Alcóolicas do seu Navio para seu armazém.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006571</GUID>
+      <Text>James Goodwill quer saber se pode levar os Artigos de Luxo do seu Navio para seu armazém.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006572</GUID>
+      <Text>James Goodwill quer saber se pode levar as Armas do seu Navio para seu armazém.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006567</GUID>
+      <Text>Permite a construção de Juncos</Text>
+    </Text>
+    <Text>
+      <GUID>1414015021</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440505) &gt;&gt; storagegoodM]t de [AssetData(1440505) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015022</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440506) &gt;&gt; storagegoodM]t de [AssetData(1440506) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015023</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440502) &gt;&gt; storagegoodM]t de [AssetData(1440502) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015024</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440504) &gt;&gt; storagegoodM]t de [AssetData(1440504) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015025</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440503) &gt;&gt; storagegoodM]t de [AssetData(1440503) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414040210</GUID>
+      <Text>Armazém de Entorpecentes</Text>
+    </Text>
+    <Text>
+      <GUID>1414040211</GUID>
+      <Text>Armazém de Objetos de Valor</Text>
+    </Text>
+    <Text>
+      <GUID>1414040212</GUID>
+      <Text>Armazém de Bebidas Alcóolicas</Text>
+    </Text>
+    <Text>
+      <GUID>1414040213</GUID>
+      <Text>Armazém de Armas</Text>
+    </Text>
+    <Text>
+      <GUID>1414040214</GUID>
+      <Text>Armazém de Artigos de Luxo</Text>
+    </Text>
+    <Text>
+      <GUID>14740100</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740101</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740103</GUID>
+      <Text>Bandeira Falsa</Text>
+    </Text>
+    <Text>
+      <GUID>1414006573</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] nota que você completou uma entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006574</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] agradece pela entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>Envie um navio para Omega Haven para receber seu pagamento.</Text>
+    </Text>
+    <Text>
+      <GUID>14740120</GUID>
+      <Text>Quebrador de Bloqueio</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] está pronto para pagar você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040217</GUID>
+      <Text>Medicamentos estão prontos para exportação! Clique para conduzir uma missão de entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040218</GUID>
+      <Text>Objetos de Valor estão prontos para exportação! Clique para conduzir uma missão de entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040219</GUID>
+      <Text>Bebidas Alcóolicas estão prontas para exportação! Clique para conduzir uma missão de entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040220</GUID>
+      <Text>Armas estão prontas para exportação! Clique para conduzir uma missão de entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040221</GUID>
+      <Text>Artigos de Luxo estão prontos para exportação! Clique para conduzir uma missão de entrega.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006747</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] informa que Medicamentos estão prontos para exportação.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018200</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] informa que Objetos de Valor estão prontos para exportação.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018201</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] informa que Bebidas Alcóolicas estão prontas para exportação.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018202</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] informa que Artigos de Luxo estão prontos para exportação.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018203</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] informa que Armas estão prontas para exportação.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

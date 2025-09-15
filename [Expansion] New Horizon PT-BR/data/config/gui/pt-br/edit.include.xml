@@ -1,0 +1,69 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>Raksagarbha</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>Arenque</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>Pesqueiro de Arenque</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>Templo</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>Abundância de Arenque</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>Popularmente encontrado em festivais de templos, este lanche apresenta três bolos de arroz doces em um palito, cada um individualmente adoçado e aromatizado. Fácil de carregar e um deleite sem sujeira, estes são um acompanhamento perfeito para um passeio no parque apreciando a vista das flores de cerejeira.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>Um peixe prateado de cardume, cheio de delícias por dentro.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>Grande Pagoda dos Pombos</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>Além da Linha Wallace, os animais da Oceania acenam com suas formas primordiais inusitadas.</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>Aprendendo que a paciência é a sabedoria da natureza selvagem, e ver a energia tranquila destes animais permitiu que seus cidadãos levem a vida mais devagar e saboreiem cada gole, pois até o chá tem gosto mais profundo na quietude.</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>As travessuras destes primos símios permitiram que seus cidadãos refletissem sobre si mesmos e se tornassem mais cuidadosos.</Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Estas bestas estranhas e exóticas temperaram o apetite de seus cidadãos, concedendo-lhes a arte da alimentação consciente e o estômago de um sábio das ilhas.</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Os símios unidos são fortes. Voltar a ser macaco, não é?</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>A imponente Grande Pagoda melhorará o Fengshui local e lembrará seu povo de manter as tradições locais de vez em quando. Para melhorar ainda mais o Fengshui, ainda mais andares precisam ser empilhados uns sobre os outros.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>Para construir um lugar onde monges vêm para meditação profunda e oração, uma multidão de blocos de pedra deve ser precisamente esculpida e montada adequadamente. As rodas do dharma e o ouro no telhado são obrigatórios... para a iluminação.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>Na era das vigas de aço, construir um enorme telhado em balanço parece trivial, mas seus arquitetos escolheram manter a tradição e buscar métodos tradicionais, apoiando engenhosamente um telhado carregado de telhas douradas com uma mera estrutura de madeira. Pesada mesmo é a coroa.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>Uma estátua majestosa do Iluminado montada de placas de bronze individualmente moldadas sobre uma estrutura de aço. Embora o resultado final pareça antigo, a estrutura interna é bastante moderna, e relatórios de uma terra distante chamada "Novo Mundo" afirmam que uma estátua similar de uma divindade rival foi montada de tal maneira.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>O Pavilhão do Prazer é um ponto de encontro para os letrados e buscadores de prazer de Horai. Dentro de sua multidão de andares iluminados por lanternas coloridas, música flutua das vigas, e o refinamento cultural reina supremo.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>Pouco se sabe sobre os Pirfórios: suas origens, seu propósito, ou o poder que os comanda. O que está claro, contudo, é que eles estão reunindo forças e se organizando numa força militar formidável em Raksagarbha, um antigo templo-fortaleza Hindu fundamental para controlar as terras inquietas de Horai. Lá, dentro de suas paredes formidáveis e salões sombrios, os Pirfórios conduzem experimentos sombrios com o Olho do Dragão recuperado, esforçando-se para criar uma força de males além da compreensão humana.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>Na tradição das marinhas da antiga civilização Atlante, os Pirfórios sempre tiveram apenas um membro no posto de Navarca, que pessoalmente supervisiona todas as intervenções militares. Diz-se que o Navarca existe numa rivalidade perpétua com o Grão-Mestre Pirfório, mas este impasse foi quebrado pelo roubo do Olho do Dragão da Cidade Santa pelo Navarca, inclinando a balança de uma forma que pode ainda mudar o curso dos impérios.</Text>
+    </ModOp>
+</ModOps>

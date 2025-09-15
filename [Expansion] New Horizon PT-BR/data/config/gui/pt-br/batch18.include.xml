@@ -1,0 +1,441 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414018050</GUID>
+      <Text>+30% Produtividade para Fornalhas de Ouro, Latão e Aço</Text>
+    </Text>
+    <Text>
+      <GUID>1414008550</GUID>
+      <Text>Lei de Desregulamentação da Carga de Trabalho</Text>
+    </Text>
+    <Text>
+      <GUID>1414018051</GUID>
+      <Text>-20% Força de trabalho necessária para Oficinas de Lâmpadas, Gramofones e Joias</Text>
+    </Text>
+    <Text>
+      <GUID>1414008551</GUID>
+      <Text>Maçonaria</Text>
+    </Text>
+    <Text>
+      <GUID>1414018052</GUID>
+      <Text>+1 Slot de Item para todos os Escritórios da Capitania</Text>
+    </Text>
+    <Text>
+      <GUID>1414008552</GUID>
+      <Text>Lei de Administração Portuária</Text>
+    </Text>
+    <Text>
+      <GUID>1414008553</GUID>
+      <Text>Lei de Livre Comércio Multilateral</Text>
+    </Text>
+    <Text>
+      <GUID>1414018053</GUID>
+      <Text>+50% Velocidade de Importação para Cais de Importação</Text>
+    </Text>
+    <Text>
+      <GUID>14443044</GUID>
+      <Text>Cais de Importação</Text>
+    </Text>
+    <Text>
+      <GUID>1414008554</GUID>
+      <Text>Lei de Estocagem de Safras</Text>
+    </Text>
+    <Text>
+      <GUID>1414018054</GUID>
+      <Text>+25 Toneladas de Armazenamento para Silos de Safras e Depósitos</Text>
+    </Text>
+    <Text>
+      <GUID>1414018163</GUID>
+      <Text>O [AssetData([NotificationContext CharacterGUID]) Text] foi atacado e manchado por pombos em um ataque total!</Text>
+    </Text>
+    <Text>
+      <GUID>1414018164</GUID>
+      <Text>O [AssetData([NotificationContext CharacterGUID]) Text] agora quer que você capture os perpetradores de tal insolência.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018165</GUID>
+      <Text>Um Magnata foi atacado por um pombo selvagem e agora seu fabricante de óculos o cobra pelo trabalho de limpeza. Isso soa como uma situação onde o contribuinte deveria intervir, obviamente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018166</GUID>
+      <Text>O [AssetData([NotificationContext CharacterGUID]) Text] pede para você pagar a taxa de limpeza em seu fabricante de óculos local.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040619</GUID>
+      <Text>Pombo no Ataque</Text>
+    </Text>
+    <Text>
+      <GUID>1414018167</GUID>
+      <Text>Capture o Pombo que manchou os óculos do Magnata.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018168</GUID>
+      <Text>Pague a taxa de limpeza de 5 Moedas pelos óculos do Magnata.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018171</GUID>
+      <Text>Produz mercadorias.</Text>
+    </Text>
+    <Text>
+      <GUID>1414019073</GUID>
+      <Text>Rumo a Novos Horizontes</Text>
+    </Text>
+    <Text>
+      <GUID>1414019074</GUID>
+      <Text>Rumo a Novos Horizontes</Text>
+    </Text>
+    <Text>
+      <GUID>1414019075</GUID>
+      <Text>Seguindo a assinatura do tratado de igualdade, a Rainha iniciou um programa de assentamento concessionário nas terras fronteiriças de Horai. Navegue para a Região para reivindicar suas terras.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006017</GUID>
+      <Text>Não subestime o comércio passivo. Ao jogar com todos os comerciantes, você será capaz de obter todos os produtos agrícolas e intermediários de todas as regiões dessa forma.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187049</GUID>
+      <Text>Dente de Buda</Text>
+    </Text>
+    <Text>
+      <GUID>1414187050</GUID>
+      <Text>Revestido em ouro e cristal, a Relíquia do Dente de Buda irradia reverência serena, um símbolo atemporal de iluminação e devoção.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187051</GUID>
+      <Text>Jingu Bang</Text>
+    </Text>
+    <Text>
+      <GUID>1414187052</GUID>
+      <Text>Forjado no coração do mar e ligado por magia, o bastão de Sun Wukong muda de tamanho à vontade, uma arma do caos empunhada pelo próprio Rei Macaco.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187053</GUID>
+      <Text>Ancinho Baiju</Text>
+    </Text>
+    <Text>
+      <GUID>1414187054</GUID>
+      <Text>Forjado de ferro celestial e pontudo com nove dentes cruéis, o Ancinho Baiju ataca com o peso do céu e a força obstinada da terra.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187055</GUID>
+      <Text>Selo Ritual</Text>
+    </Text>
+    <Text>
+      <GUID>1414187056</GUID>
+      <Text>Esculpido em pedra e impregnado de autoridade, o selo deixa para trás mais que uma marca — imprime identidade, poder e o peso silencioso da tradição.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187057</GUID>
+      <Text>Espada do Tesouro</Text>
+    </Text>
+    <Text>
+      <GUID>1414187058</GUID>
+      <Text>Temperada por chama e espírito, a espada do tesouro brilha com orgulho ancestral, uma lâmina que corta não apenas carne, mas o próprio destino.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187059</GUID>
+      <Text>Incenso Ritual</Text>
+    </Text>
+    <Text>
+      <GUID>1414187060</GUID>
+      <Text>Subindo em espirais ao céu em voltas perfumadas, o incenso ritual tece a ponte invisível entre o mortal e o divino.</Text>
+    </Text>
+    <Text>
+      <GUID>1414005072</GUID>
+      <Text>1 Relíquia Stupa</Text>
+    </Text>
+    <Text>
+      <GUID>1414018222</GUID>
+      <Text>Uma relíquia original para a Maravilha Stupa</Text>
+    </Text>
+    <Text>
+      <GUID>1414018300</GUID>
+      <Text>Deve estar no Alcance de [AssetData(1441330) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018301</GUID>
+      <Text>Produção da Companhia</Text>
+    </Text>
+    <Text>
+      <GUID>1414018302</GUID>
+      <Text>Todas as Produções da Companhia</Text>
+    </Text>
+    <Text>
+      <GUID>1414018303</GUID>
+      <Text>As fazendas não conseguem colher nada durante a estação das monções. Todos os Módulos de Fazenda são pausados automaticamente. Aguarde a Estação Seca começar para colher safras novamente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040223</GUID>
+      <Text>Ruínas Abandonadas estão sendo escavadas...</Text>
+    </Text>
+    <Text>
+      <GUID>1414011006</GUID>
+      <Text>Mochila Coletora de Safras</Text>
+    </Text>
+    <Text>
+      <GUID>1414011007</GUID>
+      <Text>Esta mochila de palha pode ser preenchida com tantas safras quanto as costas podem suportar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011008</GUID>
+      <Text>Hashis Abençoados</Text>
+    </Text>
+    <Text>
+      <GUID>1414011009</GUID>
+      <Text>Hashis especiais presenteados pela mãe do Almirante Wu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011010</GUID>
+      <Text>Caixa de Chá</Text>
+    </Text>
+    <Text>
+      <GUID>1414011011</GUID>
+      <Text>Uma caixa especial para manter as folhas de chá frescas para o melhor chá para aquela ocasião especial.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011012</GUID>
+      <Text>Jarro de Umeshu</Text>
+    </Text>
+    <Text>
+      <GUID>1414011106</GUID>
+      <Text>Um jarro barato para manter Umeshu sempre à mão.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011107</GUID>
+      <Text>Caixa de Refeição Laqueada</Text>
+    </Text>
+    <Text>
+      <GUID>1414011108</GUID>
+      <Text>Um recipiente lindamente trabalhado, sua superfície brilhante cintilando com desenhos intrincados, perfeito para servir uma refeição com elegância.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011109</GUID>
+      <Text>Tabuleiro de Go</Text>
+    </Text>
+    <Text>
+      <GUID>1414011110</GUID>
+      <Text>"Em uma grade sem emoção, impérios se erguem e caem com a colocação de uma única pedra.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011111</GUID>
+      <Text>Garrafa de Cabaça</Text>
+    </Text>
+    <Text>
+      <GUID>1414011112</GUID>
+      <Text>Apesar de sua inspiração humilde, esta é a porcelana mais fina que alguém pode ter visto.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011113</GUID>
+      <Text>Tigela de Saquê</Text>
+    </Text>
+    <Text>
+      <GUID>1414011114</GUID>
+      <Text>Bebericando saquê da borda delicada desta tigela de cerâmica, não se pode deixar de refletir sobre momentos fugazes e brindes esquecidos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011115</GUID>
+      <Text>Marmita Bento</Text>
+    </Text>
+    <Text>
+      <GUID>1414011116</GUID>
+      <Text>Cuidadosamente empacotada, cuidadosamente preparada — um pequeno zoológico de sabores em uma caixa de madeira.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011117</GUID>
+      <Text>Incenso de Coelho</Text>
+    </Text>
+    <Text>
+      <GUID>1414011118</GUID>
+      <Text>Um vaso de cerâmica fofo para incenso. Garantido para acalmar seus nervos — a menos que você seja uma cenoura.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011119</GUID>
+      <Text>Escultura Neko</Text>
+    </Text>
+    <Text>
+      <GUID>1414011124</GUID>
+      <Text>Um gatinho travesso, mexendo no ar para atrair possíveis compradores para suas garras.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011125</GUID>
+      <Text>Bonsai</Text>
+    </Text>
+    <Text>
+      <GUID>1414011126</GUID>
+      <Text>Um poema vivo em miniatura — paciência moldada em folhas e casca.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011127</GUID>
+      <Text>Mangá</Text>
+    </Text>
+    <Text>
+      <GUID>1414011128</GUID>
+      <Text>Alguns livros não são para todos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011129</GUID>
+      <Text>Balde de Onsen</Text>
+    </Text>
+    <Text>
+      <GUID>1414011130</GUID>
+      <Text>Simples, de madeira e quente ao toque — trazendo o onsen para sua própria casa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011131</GUID>
+      <Text>Plantas de Construção de Pagode</Text>
+    </Text>
+    <Text>
+      <GUID>1414011132</GUID>
+      <Text>Plantas de Construção de Santuário</Text>
+    </Text>
+    <Text>
+      <GUID>1414011133</GUID>
+      <Text>Plantas de Construção de Palácio Real</Text>
+    </Text>
+    <Text>
+      <GUID>1414011134</GUID>
+      <Text>Plantas de Construção de Buda</Text>
+    </Text>
+    <Text>
+      <GUID>1414011135</GUID>
+      <Text>Plantas de Construção de Torre do Príncipe</Text>
+    </Text>
+    <Text>
+      <GUID>1414011136</GUID>
+      <Text>Plantas de Construção de Stupa</Text>
+    </Text>
+    <Text>
+      <GUID>1414011137</GUID>
+      <Text>Protótipo de Botão Netsuke de Pardal</Text>
+    </Text>
+    <Text>
+      <GUID>1414011138</GUID>
+      <Text>Até cerâmicas simples podem ser joias. Este protótipo inteligente mostra isso, e poderia até fazer outros ficarem com ciúmes de sua alta costura.</Text>
+    </Text>
+    <Text>
+      <GUID>1414005073</GUID>
+      <Text>Plantas de Monumento</Text>
+    </Text>
+    <Text>
+      <GUID>1414018304</GUID>
+      <Text>A Companhia de Comércio Estrangeiro pode apoiar a Produção da Companhia em Horai dentro de seu raio, que cresce com a População em sua ilha.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018305</GUID>
+      <Text>Expanda seu Armazenamento para Licenças Comerciais construindo um Armazém da Companhia de Comércio Estrangeiro. Se você ainda não tem nenhuma, pode satisfazer as Necessidades dos Magnatas, conduzir missões de entrega em minha ilha, ou construir Docas de Exportação na Companhia de Comércio Estrangeiro no Velho Mundo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018306</GUID>
+      <Text>E se você ainda tiver Licenças Comerciais sobrando, pode usá-las para importar novos recursos dos Mercados Mundiais. Pelo que sei, ainda não há Tungstênio para ser encontrado em seus territórios, mas você ainda pode conseguir esse recurso. Sabe, faz filamentos de lâmpada excepcionais - e essa é apenas uma de suas opções!</Text>
+    </Text>
+    <Text>
+      <GUID>1414018307</GUID>
+      <Text>Se você tem Licenças Comerciais, talvez queira construir Escritórios Regionais para aumentar a produção da Produção da Companhia próxima.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018308</GUID>
+      <Text>Seus Magnatas podem gerar Licenças Comerciais, e são bastante produtivos nisso! Por tonelada de Rádios, Queijo Azul, Coletes de seda e Canetas-tinteiro consumidos, uma Licença Comercial é adicionada ao seu armazenamento. Use-as em sua Companhia de Comércio Estrangeiro, ou envie-as para Horai para abastecer seus Escritórios Regionais com Licenças Comerciais.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018309</GUID>
+      <Text>Variação</Text>
+    </Text>
+    <Text>
+      <GUID>1414018310</GUID>
+      <Text>Aparência alternativa para este edifício.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018311</GUID>
+      <Text>Skin Alternativa</Text>
+    </Text>
+    <Text>
+      <GUID>1414018312</GUID>
+      <Text>Réplica da Coroa da Longevidade</Text>
+    </Text>
+    <Text>
+      <GUID>1414018313</GUID>
+      <Text>Engana o olho do tolo, mas uma coroa réplica permanece uma coroa réplica. Uma relíquia original pode ser uma escolha melhor.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006752</GUID>
+      <Text>Os trabalhadores migrantes buscam um futuro melhor para si mesmos em sua cidade.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006749</GUID>
+      <Text>Os trabalhadores migrantes relutantemente seguem em frente, esperando encontrar sua sorte em outro lugar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006750</GUID>
+      <Text>Os trabalhadores migrantes estão encantados pela calorosa recepção em sua cidade.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006751</GUID>
+      <Text>O Tianming Guo não é nada mais que um inferno na terra; miséria, fome e banditismo estão por toda parte! Estaremos para sempre ao seu serviço se você for tão gracioso a ponto de nos deixar entrar em sua cidade...</Text>
+    </Text>
+    <Text>
+      <GUID>1414006762</GUID>
+      <Text>O pequeno assentamento, lar da equipe trabalhadora de Omega Haven, vê seus habitantes se reunirem dia após dia para a missa matinal nesta capela misteriosa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006763</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] apoia sua decisão de não receber os trabalhadores.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006764</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] despreza seu dreno da força de trabalho do Império Tianming.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006765</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] condena sua expansão colonialista em Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006766</GUID>
+      <Text>Majipun foi outrora um próspero porto comercial nas terras fronteiriças de Horai, um símbolo de promessa sob a Era Dourada do Império Tianming. Mas após a derrota do Império Tianming nas mãos do Ocidente, essas ambições desmoronaram. Agora posicionado diretamente na linha de frente, foi colocado sob administração militar pelo Almirante Wu e reaproveitado como base naval. Despojado do otimismo dos anos anteriores, seus residentes enfrentam um horizonte que se esvai — muitos agora veem a partida como seu único futuro.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006767</GUID>
+      <Text>O Almirante tem evidências de crimes contra alguns trabalhadores imigrantes e emitiu um mandado de prisão. Encontrar e devolver os criminosos procurados pode manter sua boca agressiva fechada por algum tempo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040611</GUID>
+      <Text>Criminosos Procurados</Text>
+    </Text>
+    <Text>
+      <GUID>1414040610</GUID>
+      <Text>O Mandado de Prisão</Text>
+    </Text>
+    <Text>
+      <GUID>1414006768</GUID>
+      <Text>Em uma patrulha de rotina nas partidas no porto de Majipun, meus homens descobriram algumas irregularidades. Parece que criminosos procurados conseguiram zarpar para suas terras. Em Nome do Imperador Ruize, tenho um mandado de prisão para sua detenção imediata. Confio que você os entregará a mim.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006769</GUID>
+      <Text>Saquê é uma necessidade religiosa, mas de forma alguma um substituto para a água. Seu povo deveria colocar alguma contenção em seu consumo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006771</GUID>
+      <Text>Desde que você se estabeleceu nestas ilhas, as pessoas em Majipun ficam bêbadas o dia todo! Seus habitantes estão dando um exemplo aterrador.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006770</GUID>
+      <Text>Sustentar através da região:&lt;br/&gt; Máx. [Conditions QuestCondition Amount]% de fornecimento de [AssetData([Conditions QuestCondition Context]) Text] por [Conditions QuestCondition TimeLimit &gt;&gt; time] (Atual: [Conditions QuestCondition CurrentAmount]%)</Text>
+    </Text>
+    <Text>
+      <GUID>1414040616</GUID>
+      <Text>Lembrança</Text>
+    </Text>
+    <Text>
+      <GUID>1414006744</GUID>
+      <Text>Mercadoria Comercial</Text>
+    </Text>
+    <Text>
+      <GUID>1414006745</GUID>
+      <Text>Essas bestas únicas são encontradas apenas dentro dos carsts intocados nas províncias do sul do Império Tianming. Com humanos lentamente tomando conta dessas florestas de bambu isoladas, esses animais raros podem em breve se encontrar em risco de deslocamento, ou até pior.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006027</GUID>
+      <Text>48 horas? Ivy, desligue o jogo agora!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

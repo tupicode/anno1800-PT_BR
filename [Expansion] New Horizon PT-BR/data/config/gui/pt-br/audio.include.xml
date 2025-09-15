@@ -1,0 +1,1155 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414030176</GUID>
+      <Text>Bem-vindo! Não recebo muitos visitantes ultimamente...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030177</GUID>
+      <Text>Bem-vindo! Fico feliz em ver um rosto novo por aqui</Text>
+    </Text>
+    <Text>
+      <GUID>1414030178</GUID>
+      <Text>Ah, saudações! Venha... junte-se a mim e seja meu convidado!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030179</GUID>
+      <Text>Quem diabos está me perturbando?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030180</GUID>
+      <Text>Suma daqui!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030181</GUID>
+      <Text>Saudações!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030182</GUID>
+      <Text>Entre...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030183</GUID>
+      <Text>Como você está?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030184</GUID>
+      <Text>Que prazer vê-lo novamente!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030185</GUID>
+      <Text>Venha e seja meu convidado...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030186</GUID>
+      <Text>Quem sabe o que você está tramando...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030187</GUID>
+      <Text>Você é confiável?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030188</GUID>
+      <Text>O que você quer?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030189</GUID>
+      <Text>Aconteceu alguma coisa?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030190</GUID>
+      <Text>Você me enganou!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030191</GUID>
+      <Text>Obviamente guerra é tudo o que você tem em mente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030192</GUID>
+      <Text>Você tem sido um espinho na minha vista há algum tempo...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030193</GUID>
+      <Text>Você não merece minha confiança.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030194</GUID>
+      <Text>Eu não confio em você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030195</GUID>
+      <Text>Meus agradecimentos são seus.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030196</GUID>
+      <Text>Não esqueça — uma boa ação merece outra.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030197</GUID>
+      <Text>Poupe sua indignação hipócrita!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030198</GUID>
+      <Text>Você está no caminho certo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030199</GUID>
+      <Text>Um dia vou me vingar de seus atos vis.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030200</GUID>
+      <Text>Você não tem honra!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030201</GUID>
+      <Text>Eu realmente devo uma para você por isso...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030202</GUID>
+      <Text>Não perca seu tempo. Eu consigo ver através de você!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030203</GUID>
+      <Text>Sua gentileza sensata é realmente suspeita...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030204</GUID>
+      <Text>A longa viagem até seu lugar valeu a pena.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030205</GUID>
+      <Text>Você não é bem-vindo aqui.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030206</GUID>
+      <Text>Por favor, retire-se!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030207</GUID>
+      <Text>O que você deseja?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030208</GUID>
+      <Text>Do que se trata?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030209</GUID>
+      <Text>Sim?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030210</GUID>
+      <Text>Bem-vindo!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030211</GUID>
+      <Text>Estou encantado com sua visita.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030212</GUID>
+      <Text>Tome seu tempo e olhe ao redor!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030213</GUID>
+      <Text>Posso ajudá-lo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030214</GUID>
+      <Text>Que assim seja!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030215</GUID>
+      <Text>Combinado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030216</GUID>
+      <Text>Oh... obviamente você tem outros planos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030217</GUID>
+      <Text>Meus recursos também são limitados.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030218</GUID>
+      <Text>Estes são desenvolvimentos interessantes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030219</GUID>
+      <Text>Agora, você pode provar seu valor!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030220</GUID>
+      <Text>E a antiga sabedoria asiática diz: "Pequenos passos também levam ao objetivo."</Text>
+    </Text>
+    <Text>
+      <GUID>1414030221</GUID>
+      <Text>Um de nossos ditados é: "Nada é impossível para uma mente disposta."</Text>
+    </Text>
+    <Text>
+      <GUID>1414030222</GUID>
+      <Text>Não é de admirar que o povo esteja descontente se tem que viver bem ao lado da fundição de minério.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030223</GUID>
+      <Text>A mina de argila e a fábrica de tijolos no centro da cidade são uma monstruosidade. Não poderíamos fabricar tijolos em outro lugar?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030224</GUID>
+      <Text>Mais estranhos suspeitos estão rondando pela cidade.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030225</GUID>
+      <Text>O povo está relatando alguns personagens de aparência suspeita vagando por aqui.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030226</GUID>
+      <Text>Maravilhoso! Sua ajuda fez com que o povo da cidade esteja substancialmente melhor do que antes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030227</GUID>
+      <Text>Os confortos do nível de cidadão devem estar disponíveis para todos. Por favor, nos ajude a realizar nossos planos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030228</GUID>
+      <Text>Isso é uma conquista impressionante. Vamos construir um monumento para você. Não — uma dúzia de monumentos!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030229</GUID>
+      <Text>O que você gostaria?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030230</GUID>
+      <Text>Estou ouvindo...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030231</GUID>
+      <Text>Sim?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030232</GUID>
+      <Text>Você tem uma pergunta para mim?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030233</GUID>
+      <Text>Certo, bom.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030234</GUID>
+      <Text>Veja isso como pagamento pelos serviços prestados à nossa cidade.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030235</GUID>
+      <Text>Então por que eu faria isso?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030236</GUID>
+      <Text>Que insolência!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030237</GUID>
+      <Text>Esta é uma atitude que posso aplaudir!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030238</GUID>
+      <Text>Você claramente sabe o que deve ser feito.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030239</GUID>
+      <Text>Naturalmente ficamos encantados com seu presente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030240</GUID>
+      <Text>Você está se repetindo...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030241</GUID>
+      <Text>Muito decepcionante... então você pede meu apoio, mas escolhe negar o seu?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030242</GUID>
+      <Text> Bem, suponho que você deve ter coisas mais importantes para fazer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030243</GUID>
+      <Text>As fundações não podem ser concluídas sem tijolos! Isso é realmente tão difícil de entender?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030244</GUID>
+      <Text>Os trabalhadores estão esperando sua remessa de tijolos. Você pretende zombar de nosso sofrimento com sua ociosidade?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030245</GUID>
+      <Text>Onde foram parar esses tijolos? O trabalho nas fundações está progredindo apenas lentamente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030246</GUID>
+      <Text>Acho difícil acreditar que haverá um santuário aqui novamente...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030247</GUID>
+      <Text>Tenho o prazer de relatar que as fundações estão agora completas. A próxima fase da construção pode começar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030248</GUID>
+      <Text>As paredes estão construídas! Finalmente, temos um vislumbre de esperança — mas ainda há trabalho a ser feito antes que o santuário esteja completo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030249</GUID>
+      <Text>Como você sabe, os telhados do santuário já foram cobertos com ouro puro. E assim serão novamente! Bem... o que você está esperando?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030250</GUID>
+      <Text>Onde está o ouro para os telhados? Pensei que tinha me expressado claramente!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030251</GUID>
+      <Text>Como o novo santuário está esplêndido agora. Vou mandar chamar o sacerdote aqui imediatamente para realizar a cerimônia de consagração.</Text>
+    </Text>
+    <!-- Goodwill -->
+    <Text>
+      <GUID>1414030574</GUID>
+      <Text>Você pode me dar um relatório de situação?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030575</GUID>
+      <Text>Me diga o que você precisa, e verei o que os mercados têm a oferecer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030576</GUID>
+      <Text>Você chama isso de furtivo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030577</GUID>
+      <Text>A solução econômica — você faz um bom trabalho.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030578</GUID>
+      <Text>...As consequências políticas já...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030579</GUID>
+      <Text>Vamos torcer para que esta rota seja lucrativa para você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030580</GUID>
+      <Text>Compre barato e venda caro. Essa é a fórmula.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030581</GUID>
+      <Text>Você deve ser elogiado por seu sucesso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030582</GUID>
+      <Text>Bem-vindo — declare seus negócios.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030583</GUID>
+      <Text>Apenas deixe comigo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030584</GUID>
+      <Text>Sua solução fez sentido, refrescante.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030585</GUID>
+      <Text>Você parece ter um bom senso de direção.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030586</GUID>
+      <Text>Você está tentando arruinar nosso valor de mercado?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030587</GUID>
+      <Text>Quão longe você chegou? Tenho que planejar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030588</GUID>
+      <Text>Não nos decepcione.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030589</GUID>
+      <Text>Eu sabia que minha confiança não estava mal colocada. Este é um investimento sábio a longo prazo, e estou animado para ver como rende uma vez que a construção tenha sido concluída.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030590</GUID>
+      <Text>Você está sendo solicitado por seu apoio. Aguardo sua resposta.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030591</GUID>
+      <Text>Inaceitável.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030592</GUID>
+      <Text>Um assunto urgente. Ficaria feliz em designá-lo à sua corporação.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030593</GUID>
+      <Text>Mercadorias entram, mercadorias saem. Posicione-se.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030594</GUID>
+      <Text>Então vejo que você cuidou disso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030595</GUID>
+      <Text>Eu sei que você está apenas me testando... certo? Por favor, diga que estou certo!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030596</GUID>
+      <Text>A maneira como você lidou com isso terá um efeito imenso no seu valor de mercado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030597</GUID>
+      <Text>Você fez o quê? Em que estava pensando?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030598</GUID>
+      <Text>Para ser franco — você desperdiçou recursos valiosos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030599</GUID>
+      <Text>Importação e exportação são o Alfa e Ômega do sucesso empresarial.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030600</GUID>
+      <Text>Você tem alguma ideia do que isso acabou de nos custar?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030601</GUID>
+      <Text>Bem... podemos fechar esse arquivo agora.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030602</GUID>
+      <Text>Suas mercadorias encontrarão seus compradores nos mercados mundiais.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030603</GUID>
+      <Text>Eu estava esperando melhores resultados.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030604</GUID>
+      <Text>Os preços caíram. Este é um bom momento para comprar, se você estiver interessado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030605</GUID>
+      <Text>Bem feito. Vamos mantê-lo em mente para futuras tarefas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030606</GUID>
+      <Text>Um pouco tarde para uma recusa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030607</GUID>
+      <Text>Você pode me dar um relatório de situação?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030608</GUID>
+      <Text>Este é o tipo de mercado que dá cabelos grisalhos aos comerciantes. Mantenha os olhos abertos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030609</GUID>
+      <Text>Confiar isso a você foi uma boa decisão.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030610</GUID>
+      <Text>Você deveria aproveitar o momento — se tiver necessidade.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030611</GUID>
+      <Text>Se você vender seus excedentes agora, poderia ter um lucro saudável.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030612</GUID>
+      <Text>Não posso lhe dar luz verde para isso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030613</GUID>
+      <Text>Agora que acabou, talvez os mercados se estabilizem...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030614</GUID>
+      <Text>Uma distração a menos. Muito bom!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030615</GUID>
+      <Text>Oh não — isso não vai acontecer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030616</GUID>
+      <Text>Isso vai completamente contra nossas diretrizes. Então... não.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030617</GUID>
+      <Text>Muitas flutuações no mercado no momento, há dinheiro para ser feito — se você for cuidadoso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030618</GUID>
+      <Text>Entrarei em contato quando o tempo permitir. Agora, com licença...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030619</GUID>
+      <Text>Bem, teremos que tentar recuperar essas perdas de alguma forma.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030620</GUID>
+      <Text>Então, qual é a história? Não tenho tempo a perder.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030621</GUID>
+      <Text>Você poderia ganhar dinheiro real negociando neste mercado volátil. Mas terá que ser cuidadoso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030622</GUID>
+      <Text>Tudo converge aqui — então agarre as oportunidades quando surgirem.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030623</GUID>
+      <Text>Compre barato e venda caro, essa é a regra. O preço está bom.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030624</GUID>
+      <Text>Pule a conversa fiada, há muito acontecendo hoje.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030625</GUID>
+      <Text>Então, o que você quer?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030626</GUID>
+      <Text>Isso não é o que eu esperava ouvir.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030627</GUID>
+      <Text>Oh, muito discreto...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030628</GUID>
+      <Text>Parece que você vai ser confiado com isso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030629</GUID>
+      <Text>Rejeitado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030630</GUID>
+      <Text>Você não sabe como as coisas funcionam por aqui.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030631</GUID>
+      <Text>Você pensa fora da caixa, e consegue fazer acontecer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030632</GUID>
+      <Text>Devo admitir: Você correspondeu às nossas expectativas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030633</GUID>
+      <Text>Bom trabalho! Você conseguiu sem nos falir.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030634</GUID>
+      <Text>É um mercado volátil agora — dê uma olhada!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030635</GUID>
+      <Text>O que isso deveria ser?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030636</GUID>
+      <Text>Exatamente. Você sabe o que fazer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030637</GUID>
+      <Text>Uma tarefa do próprio topo. Espero que não nos decepcione.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030638</GUID>
+      <Text>Mais do que nunca, há desafios a serem enfrentados neste setor. O que o povo precisa agora é de um líder confiante e firme — e você pode nos ajudar a transmitir essa mensagem.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030639</GUID>
+      <Text>Você sabe que só ganhamos dinheiro quando você tem sucesso, certo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030640</GUID>
+      <Text>Há tanto acontecendo no mercado agora — oportunidades e riscos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030641</GUID>
+      <Text>Você tem algo para me dizer sobre a tarefa?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030642</GUID>
+      <Text>Acho que você deveria vender seu estoque excedente. A hora é propícia!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030643</GUID>
+      <Text>Tenho uma oportunidade de ouro para você — não a deixe passar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030644</GUID>
+      <Text>Agora é a hora de vender — se você puder.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030645</GUID>
+      <Text>Hora de vender, se você estiver interessado. O preço não ficará muito melhor que isso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030646</GUID>
+      <Text>Você se importa? Essa é minha responsabilidade.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030647</GUID>
+      <Text>Os preços estão em alta. Agora é a hora de vender.</Text>
+    </Text>
+    <!-- Magnate -->
+    <Text>
+      <GUID>1414030361</GUID>
+      <Text>Que desagradável!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030362</GUID>
+      <Text>Tenho uma missão que deve ser completada sem demora.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030363</GUID>
+      <Text>Você é um sujeito inteligente, não deveria ser problema para você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030364</GUID>
+      <Text>Tenho que pedir um favor urgente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030365</GUID>
+      <Text>Eu cuidaria disso mesmo, mas minha agenda está muito cheia.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030366</GUID>
+      <Text>Você tem tempo? Seria realmente importante.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030367</GUID>
+      <Text>Você sabe o quão importante é este trabalho, certo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030368</GUID>
+      <Text>Não enrole! Temos que manter o cronograma.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030369</GUID>
+      <Text>Você veio apresentar seus resultados?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030370</GUID>
+      <Text>Posso presumir que você teve sucesso?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030371</GUID>
+      <Text>Espero que você tenha boas notícias?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030372</GUID>
+      <Text>Falta de compromisso. Muito alarmante!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030373</GUID>
+      <Text>Muito decepcionante para alguém em sua posição.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030374</GUID>
+      <Text>Se você fosse um dos meus funcionários, eu o demitiria.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030375</GUID>
+      <Text>Bravo! Gosto do seu comprometimento.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030376</GUID>
+      <Text>Desempenho excelente, verdadeiramente notável.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030377</GUID>
+      <Text>Você demonstrou prova impressionante de suas habilidades.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030378</GUID>
+      <Text>Você vai além. Isso é bom.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030379</GUID>
+      <Text>Você superou minhas expectativas. Parabéns!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030380</GUID>
+      <Text>Sempre disse que esta cidade é mal administrada. Agora está óbvio!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030381</GUID>
+      <Text>Cada minuto gasto nesta cidade é uma perda total.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030382</GUID>
+      <Text>Ficar rico nesta cidade continua sendo um sonho inatingível. Então por que ficar aqui?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030383</GUID>
+      <Text>Esta cidade está sofrendo sob a pior administração que já vi.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030384</GUID>
+      <Text>Então? Você é responsável pelas condições ruins aqui? Bom saber.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030385</GUID>
+      <Text>É escandaloso a maneira como a cidade está sendo levada à ruína.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030386</GUID>
+      <Text>Esta cidade realmente não merece ser chamada assim.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030387</GUID>
+      <Text>Mandei meus filhos para uma escola particular longe daqui. Não há nada para eles aprenderem neste lugar mesmo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030388</GUID>
+      <Text>Se eu fosse responsável por esta cidade, morreria de vergonha.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030389</GUID>
+      <Text>A qualidade de vida aqui não é ruim. Mas está longe de ser perfeita.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030390</GUID>
+      <Text>Basicamente uma cidade funciona de forma não diferente de uma empresa. Sem fundações sólidas, nada funciona.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030391</GUID>
+      <Text>Não planejo ficar parado. Ainda há tanto que precisa ser organizado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030392</GUID>
+      <Text>Tudo que temos que fazer é explorar isso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030393</GUID>
+      <Text>Se você elevar os padrões, esta cidade seria ainda melhor.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030394</GUID>
+      <Text>Esta cidade é bem organizada, é claro de ver em cada esquina.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030395</GUID>
+      <Text>Se esta cidade continuar do jeito que está, vou me aposentar aqui um dia.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030396</GUID>
+      <Text>Boa educação, cultura, um pouco de luxo — minha esposa e filhos gostam daqui. E eu também.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030397</GUID>
+      <Text>Podemos realmente estar satisfeitos com o crescimento econômico aqui.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030398</GUID>
+      <Text>Se alguém apenas puxar as cordas certas, isso poderia se tornar um belo lugar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030399</GUID>
+      <Text>Deveríamos regular rigorosamente a imigração para esta cidade, para manter o alto padrão de vida.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030400</GUID>
+      <Text>Você está fazendo um trabalho exemplar administrando esta cidade. Parabéns.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030401</GUID>
+      <Text>Se você pretendia tornar esta cidade grandiosa, foi um empreendimento bem-sucedido.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030402</GUID>
+      <Text>Saudações!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030403</GUID>
+      <Text>Olá</Text>
+    </Text>
+    <Text>
+      <GUID>1414030404</GUID>
+      <Text> O que posso fazer por você?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030405</GUID>
+      <Text>Bom. Muito bom.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030406</GUID>
+      <Text>Isso quase merece uma salva de palmas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030407</GUID>
+      <Text>Isso é muito conveniente.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030408</GUID>
+      <Text>Tinha que acontecer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030409</GUID>
+      <Text>Que desagradável.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030410</GUID>
+      <Text>Um desastre total.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030411</GUID>
+      <Text>Agora vou ter que revisar meus planos...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030412</GUID>
+      <Text> Alguém já lhe disse que você é realmente bom?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030413</GUID>
+      <Text>Eu esperaria mais de você do que... isso...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030414</GUID>
+      <Text>Desta vez você foi bastante inepto.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030415</GUID>
+      <Text>Suas táticas são tão previsíveis!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030416</GUID>
+      <Text>Devo dizer que você certamente tem coragem.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030417</GUID>
+      <Text>Você realmente quer incorrer na ira de todos ignorando seus problemas?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030418</GUID>
+      <Text>Quando você está pensando em fazer algo contra esta ameaça?!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030419</GUID>
+      <Text>Metade da cidade foi destruída! Faça alguma coisa pelo amor de Deus!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030420</GUID>
+      <Text>Quem é responsável por isso? Eles deveriam ser demitidos!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030421</GUID>
+      <Text>Minha empresa está tendo um lucro considerável.</Text>
+    </Text>
+    <!-- Admiral -->
+    <Text>
+      <GUID>1414030776</GUID>
+      <Text>Você está bisbilhotando?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030777</GUID>
+      <Text>Este não vai ser um bom dia!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030778</GUID>
+      <Text>Odeio interrupções...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030779</GUID>
+      <Text>Você de novo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030780</GUID>
+      <Text>O quê?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030781</GUID>
+      <Text>Pare de se esgueirar assim!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030782</GUID>
+      <Text>Seja breve.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030783</GUID>
+      <Text>Saia daqui!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030784</GUID>
+      <Text>Não me importo com nada disso!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030785</GUID>
+      <Text>Saia!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030786</GUID>
+      <Text>Não me pressione!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030787</GUID>
+      <Text>Vá para o inferno!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030788</GUID>
+      <Text>Você é bem inconveniente, não é?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030789</GUID>
+      <Text>Não há nada para discutir.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030790</GUID>
+      <Text>Silêncio!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030791</GUID>
+      <Text>Confiar esta tarefa a você é bem arriscado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030792</GUID>
+      <Text>Espero que esta missão não sobrecarregue suas habilidades.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030793</GUID>
+      <Text>Tenho coisas melhores para fazer do que me preocupar com assuntos tão pequenos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030794</GUID>
+      <Text>Certamente você pode dar conta disso, não pode?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030795</GUID>
+      <Text>Com tudo que tenho para fazer, não tenho tempo para isso também.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030796</GUID>
+      <Text>Veremos se minha confiança em você é justificada.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030797</GUID>
+      <Text>Esta tarefa colocará sua habilidade à prova.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030798</GUID>
+      <Text>Uma missão, feita sob medida para você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030799</GUID>
+      <Text>Você está me fazendo esperar de propósito, certo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030800</GUID>
+      <Text>Você não vai falhar nesta tarefa insignificante, vai?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030801</GUID>
+      <Text>Você finalmente executou suas ordens?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030802</GUID>
+      <Text>Você está aqui para se gabar de seu sucesso?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030803</GUID>
+      <Text>Você seguiu minhas instruções à risca?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030804</GUID>
+      <Text>Sua inação equivale a provocação!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030805</GUID>
+      <Text>Sua recusa em cooperar terá consequências!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030806</GUID>
+      <Text>Não tolerarei insubordinação.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030807</GUID>
+      <Text>Bem, pelo menos está feito e encerrado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030808</GUID>
+      <Text>Incrível. Você conseguiu fazer o trabalho sem ajuda.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030809</GUID>
+      <Text>Isso não foi grande coisa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030810</GUID>
+      <Text>Sorte, acaso, tanto faz... contanto que você tenha feito o trabalho.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030811</GUID>
+      <Text>Você realmente acha que esse pouquinho de progresso patético te torna invencível?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030812</GUID>
+      <Text>Aqueles que miram alto um dia cairão muito mais pesado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030813</GUID>
+      <Text>Não importa onde se olhe, lá está você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030814</GUID>
+      <Text>A maneira descarada de expandir aqui é intolerável.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030815</GUID>
+      <Text>E você acha que isso vai me impressionar, estou certo?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030816</GUID>
+      <Text>Por uma vez, concordamos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030817</GUID>
+      <Text>Desta vez, você nem está errado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030818</GUID>
+      <Text>Essa também foi a única coisa sensata que você poderia fazer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030819</GUID>
+      <Text>Bem, bem... então você pode aprender afinal.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030820</GUID>
+      <Text>Todos os sistemas prontos. Tripulação pronta. Assim é que as coisas deveriam ser.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030821</GUID>
+      <Text>Não tolero nada menos que disciplina e ordem.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030822</GUID>
+      <Text>Sempre se deve estar atento a qualquer sinal de ineficiência... isso torna as pessoas moles.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030823</GUID>
+      <Text>Qualquer um que falhe em dar o seu melhor por aqui deve ir embora.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030824</GUID>
+      <Text>Ninguém é indispensável. Saber disso mantém as pessoas alerta.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030825</GUID>
+      <Text>Sua propaganda é tão barata, mas funciona...</Text>
+    </Text>
+    <Text>
+      <GUID>1414030826</GUID>
+      <Text>Parece que você compreendeu o princípio por trás da... "Informação Seletiva"</Text>
+    </Text>
+    <Text>
+      <GUID>1414030827</GUID>
+      <Text>IMPUDÊNCIA!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030828</GUID>
+      <Text>Isso é uma imposição.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030829</GUID>
+      <Text>Um ataque pessoal!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030830</GUID>
+      <Text>Você está brincando com fogo... cuidado para não se queimar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030831</GUID>
+      <Text>Um dia, um erro como esse será sua morte.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030832</GUID>
+      <Text>Seus dias estão contados.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030833</GUID>
+      <Text>Todos os artilheiros, para posições de combate!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030834</GUID>
+      <Text>Ainda há tempo para se render.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030835</GUID>
+      <Text>Eu costumava estar no topo... provei do poder, fiquei embriagado por ele. Tinha amigos influentes, respeito, até popularidade... e então — uma única decisão errada... e vim abaixo. mas não terminei, ainda não!</Text>
+    </Text>
+    <Text>
+      <GUID>1414030836</GUID>
+      <Text>Não posso mais confiar em ninguém, ninguém. Muito menos em você, suspeito. Você está apenas esperando eu errar novamente, para poder me acabar — não negue. Você e eu estamos competindo pela mesma coisa como sempre.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030837</GUID>
+      <Text>Aquele comerciante do mercado negro que aparece aqui de vez em quando — você não acha que ele... pode nem ser um comerciante? Que ele está na verdade aqui para espionar?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030838</GUID>
+      <Text>Viu, não dói nem um pouco.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030839</GUID>
+      <Text>Uma decisão muito sábia.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030840</GUID>
+      <Text>Você tem muita sorte de eu estar tendo um bom dia hoje.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030841</GUID>
+      <Text>Se você não conseguir encontrar aqui, simplesmente não existe.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030842</GUID>
+      <Text>Vamos direto ao negócio.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030843</GUID>
+      <Text>Provavelmente é um erro negociar com você.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030844</GUID>
+      <Text>Você pode ao menos pagar por isso?</Text>
+    </Text>
+    <Text>
+      <GUID>1414030845</GUID>
+      <Text>Estamos em negócios.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030846</GUID>
+      <Text>É seu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030847</GUID>
+      <Text>Qualidade tem seu preço.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030848</GUID>
+      <Text>Então terminamos. Por enquanto.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030849</GUID>
+      <Text>Combinado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030850</GUID>
+      <Text>Então temos um acordo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414030851</GUID>
+      <Text>Você não vai fazer nada estúpido com isso. Vai?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

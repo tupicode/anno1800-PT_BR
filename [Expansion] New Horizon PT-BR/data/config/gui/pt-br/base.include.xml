@@ -1,0 +1,665 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1446131</GUID>
+      <Text>Navarca Piróforo</Text>
+    </Text>
+    <Text>
+      <GUID>1446109</GUID>
+      <Text>James Goodwill</Text>
+    </Text>
+    <Text>
+      <GUID>1446116</GUID>
+      <Text>Almirante Wu Guowei</Text>
+    </Text>
+    <!-- Admiral Island -->
+    <Text>
+      <GUID>1414006702</GUID>
+      <Text>Majipun</Text>
+    </Text>
+    <!-- Goodwill Island-->
+    <Text>
+      <GUID>1414006420</GUID>
+      <Text>Omega Haven</Text>
+    </Text>
+    <!-- Pyrphorian Island-->
+    <Text>
+      <GUID>1414006698</GUID>
+      <Text>Raksagarbha</Text>
+    </Text>
+    <!-- poptiers -->
+    <Text>
+      <GUID>1445600</GUID>
+      <Text>Magnatas</Text>
+    </Text>
+    <Text>
+      <GUID>1445602</GUID>
+      <Text>Nóngmín</Text>
+    </Text>
+    <Text>
+      <GUID>1446100</GUID>
+      <Text>Nóngmín</Text>
+    </Text>
+    <Text>
+      <GUID>1446101</GUID>
+      <Text>Gōngrén</Text>
+    </Text>
+    <Text>
+      <GUID>1445603</GUID>
+      <Text>Gōngrén</Text>
+    </Text>
+    <Text>
+      <GUID>1446103</GUID>
+      <Text>Gōngrén</Text>
+    </Text>
+    <Text>
+      <GUID>1446106</GUID>
+      <Text>Magnata</Text>
+    </Text>
+    <!-- Products -->
+    <Text>
+      <GUID>1440235</GUID>
+      <Text>Chapéus Cônicos</Text>
+    </Text>
+    <Text>
+      <GUID>1440004</GUID>
+      <Text>Rádios</Text>
+    </Text>
+    <Text>
+      <GUID>1440007</GUID>
+      <Text>Canetas-tinteiro</Text>
+    </Text>
+    <Text>
+      <GUID>1440010</GUID>
+      <Text>Detectores de Rádio</Text>
+    </Text>
+    <Text>
+      <GUID>1440014</GUID>
+      <Text>Queijo Azul</Text>
+    </Text>
+    <Text>
+      <GUID>1440016</GUID>
+      <Text>Biscoitos de Caviar</Text>
+    </Text>
+    <Text>
+      <GUID>1440017</GUID>
+      <Text>Grãos de Pimenta</Text>
+    </Text>
+    <Text>
+      <GUID>1440018</GUID>
+      <Text>Pimenta-do-reino</Text>
+    </Text>
+    <Text>
+      <GUID>1440019</GUID>
+      <Text>Caviar</Text>
+    </Text>
+    <Text>
+      <GUID>1440226</GUID>
+      <Text>Arenque</Text>
+    </Text>
+    <Text>
+      <GUID>1440020</GUID>
+      <Text>Bicos de Caneta-tinteiro</Text>
+    </Text>
+    <Text>
+      <GUID>1440021</GUID>
+      <Text>Calculadoras</Text>
+    </Text>
+    <Text>
+      <GUID>1440022</GUID>
+      <Text>Uísque Bourbon</Text>
+    </Text>
+    <Text>
+      <GUID>1440023</GUID>
+      <Text>Automóveis</Text>
+    </Text>
+    <Text>
+      <GUID>1440024</GUID>
+      <Text>Tungstênio</Text>
+    </Text>
+    <Text>
+      <GUID>1440025</GUID>
+      <Text>Barras de Prata</Text>
+    </Text>
+    <Text>
+      <GUID>1440026</GUID>
+      <Text>Diamantes</Text>
+    </Text>
+
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>Arroz</Text>
+    </Text>
+    <Text>
+      <GUID>1440212</GUID>
+      <Text>Algas</Text>
+    </Text>
+    <Text>
+      <GUID>1440213</GUID>
+      <Text>Oshi-Sushi</Text>
+    </Text>
+    <Text>
+      <GUID>1440201</GUID>
+      <Text>Ume</Text>
+    </Text>
+    <Text>
+      <GUID>1440202</GUID>
+      <Text>Ervas de Chá</Text>
+    </Text>
+    <Text>
+      <GUID>1440203</GUID>
+      <Text>Chá Verde</Text>
+    </Text>
+    <Text>
+      <GUID>1440204</GUID>
+      <Text>Caulim</Text>
+    </Text>
+    <Text>
+      <GUID>1440205</GUID>
+      <Text>Feldspato</Text>
+    </Text>
+    <Text>
+      <GUID>1440206</GUID>
+      <Text>Porcelana</Text>
+    </Text>
+    <Text>
+      <GUID>1440207</GUID>
+      <Text>Casulos do Bicho-da-seda</Text>
+    </Text>
+    <Text>
+      <GUID>1440209</GUID>
+      <Text>Tecido de Seda</Text>
+    </Text>
+    <Text>
+      <GUID>1440215</GUID>
+      <Text>Fermento</Text>
+    </Text>
+    <Text>
+      <GUID>1440216</GUID>
+      <Text>Saquê</Text>
+    </Text>
+    <Text>
+      <GUID>1440217</GUID>
+      <Text>Patos</Text>
+    </Text>
+    <Text>
+      <GUID>1440218</GUID>
+      <Text>Mel</Text>
+    </Text>
+    <Text>
+      <GUID>1440219</GUID>
+      <Text>Pato Assado</Text>
+    </Text>
+    <Text>
+      <GUID>1440220</GUID>
+      <Text>Umeshu</Text>
+    </Text>
+    <Text>
+      <GUID>1440224</GUID>
+      <Text>Cânhamo</Text>
+    </Text>
+    <Text>
+      <GUID>1440225</GUID>
+      <Text>Quimonos</Text>
+    </Text>
+    <Text>
+      <GUID>1440300</GUID>
+      <Text>Cogumelo Nobre</Text>
+    </Text>
+    <Text>
+      <GUID>1440221</GUID>
+      <Text>Irídio</Text>
+    </Text>
+    <Text>
+      <GUID>1440223</GUID>
+      <Text>Soja</Text>
+    </Text>
+    <Text>
+      <GUID>1440402</GUID>
+      <Text>Casa de Banhos</Text>
+    </Text>
+    <Text>
+      <GUID>1440405</GUID>
+      <Text>Templo</Text>
+    </Text>
+    <Text>
+      <GUID>1440404</GUID>
+      <Text>Estação de Bonde</Text>
+    </Text>
+    <Text>
+      <GUID>1440229</GUID>
+      <Text>Kotos</Text>
+    </Text>
+    <Text>
+      <GUID>1440303</GUID>
+      <Text>Kōji</Text>
+    </Text>
+    <Text>
+      <GUID>1440500</GUID>
+      <Text>Entorpecentes</Text>
+    </Text>
+    <Text>
+      <GUID>1440501</GUID>
+      <Text>Objetos de Valor</Text>
+    </Text>
+    <Text>
+      <GUID>1440502</GUID>
+      <Text>Bebidas Alcóolicas</Text>
+    </Text>
+    <Text>
+      <GUID>1440503</GUID>
+      <Text>Artigos de Luxo</Text>
+    </Text>
+    <Text>
+      <GUID>1440504</GUID>
+      <Text>Armas</Text>
+    </Text>
+    <Text>
+      <GUID>1440232</GUID>
+      <Text>Coletes de Seda</Text>
+    </Text>
+    <Text>
+      <GUID>1440233</GUID>
+      <Text>Bambu</Text>
+    </Text>
+    <Text>
+      <GUID>1440234</GUID>
+      <Text>Argamassa de Barro</Text>
+    </Text>
+    <Text>
+      <GUID>1440304</GUID>
+      <Text>Esculturas de Jade</Text>
+    </Text>
+    <Text>
+      <GUID>1440305</GUID>
+      <Text>Literatura Oriental</Text>
+    </Text>
+    <Text>
+      <GUID>1440306</GUID>
+      <Text>Incenso</Text>
+    </Text>
+    <Text>
+      <GUID>1440307</GUID>
+      <Text>Fruta Durian</Text>
+    </Text>
+    <Text>
+      <GUID>1440236</GUID>
+      <Text>Molho de Soja</Text>
+    </Text>
+    <Text>
+      <GUID>1440407</GUID>
+      <Text>Jardim</Text>
+    </Text>
+    <Text>
+      <GUID>1440237</GUID>
+      <Text>Blocos de Pedra</Text>
+    </Text>
+    <Text>
+      <GUID>1440239</GUID>
+      <Text>Tofu</Text>
+    </Text>
+    <Text>
+      <GUID>1440409</GUID>      <!-- Streetfood - Product -->
+      <Text>Quitutes de Rua</Text>
+    </Text>
+    <Text>
+      <GUID>1337881</GUID>
+      <Text>Estaleiro de Juncos</Text>
+    </Text>
+    <Text>
+      <GUID>14740102</GUID>
+      <Text>Junco</Text>
+    </Text>
+    <Text>
+      <GUID>14740115</GUID>
+      <Text>Lorcha</Text>
+    </Text>
+    <Text>
+      <GUID>1441333</GUID>
+      <Text>Cozinha: Macarrão</Text>
+    </Text>
+    <Text>
+      <GUID>1441336</GUID>
+      <Text>Cozinha: Tofu</Text>
+    </Text>
+    <Text>
+      <GUID>1441233</GUID>
+      <Text>Cozinha: Pato Assado</Text>
+    </Text>
+    <Text>
+      <GUID>1441026</GUID>
+      <Text>Cozinha Industrial: Caviar</Text>
+    </Text>
+    <Text>
+      <GUID>1441204</GUID>
+      <Text>Cozinha Industrial: Oshi-Sushi</Text>
+    </Text>
+    <Text>
+      <GUID>1441312</GUID>
+      <Text>Cozinha Industrial: Molho de Soja</Text>
+    </Text>
+    <!-- Streetfood -->
+    <Text>
+      <GUID>1442701</GUID>      <!-- Streetfood - Noodle Stand (Blank) -->
+      <Text>Barraca de Macarrão</Text>
+    </Text>
+    <Text>
+      <GUID>1442702</GUID>      <!-- Streetfood - Noodle Stand - Nigiri-Sushi -->
+      <Text>Barraca de Macarrão: Nigiri-Sushi</Text>
+    </Text>
+    <Text>
+      <GUID>1442703</GUID>      <!-- Streetfood - Noodle Stand - Vegetable Tempura -->
+      <Text>Barraca de Macarrão: Tempurá de Legumes</Text>
+    </Text>
+    <Text>
+      <GUID>1442704</GUID>      <!-- Streetfood - Noodle Stand - Hand-Pulled Beef Noodles -->
+      <Text>Barraca de Macarrão: Macarrão de Carne Puxado à Mão</Text>
+    </Text>
+    <Text>
+      <GUID>1442705</GUID>      <!-- Streetfood - Noodle Stand - Takoyaki -->
+      <Text>Barraca de Macarrão: Takoyaki</Text>
+    </Text>
+    <Text>
+      <GUID>1442706</GUID>      <!-- Streetfood - Street Grill (Blank) -->
+      <Text>Comida de Rua</Text>
+    </Text>
+    <Text>
+      <GUID>1442707</GUID>      <!-- Streetfood - Street Grill - Okonomiyaki -->
+      <Text>Comida de Rua: Okonomiyaki</Text>
+    </Text>
+    <Text>
+      <GUID>1442708</GUID>      <!-- Streetfood - Street Grill - Bak Kwa -->
+      <Text>Comida de Rua: Bak Kwa</Text>
+    </Text>
+    <Text>
+      <GUID>1442709</GUID>      <!-- Streetfood - Street Grill - Stir-Fried Rice -->
+      <Text>Comida de Rua: Arroz Refogado</Text>
+    </Text>
+    <Text>
+      <GUID>1442710</GUID>      <!-- Streetfood - Street Grill - Kushiyaki -->
+      <Text>Comida de Rua: Kushiyaki</Text>
+    </Text>
+    <Text>
+      <GUID>1442711</GUID>      <!-- Streetfood - Steamer Stand (Blank) -->
+      <Text>Barraca de Vaporeira</Text>
+    </Text>
+    <Text>
+      <GUID>1442712</GUID>      <!-- Streetfood - Steamer Stand - Congee with Youtiao -->
+      <Text>Barraca de Vaporeira: Mingau com Youtiao</Text>
+    </Text>
+    <Text>
+      <GUID>1442713</GUID>      <!-- Streetfood - Steamer Stand - Steamed Bao Buns -->
+      <Text>Barraca de Vaporeira: Pãezinhos Bao no Vapor</Text>
+    </Text>
+    <Text>
+      <GUID>1442714</GUID>      <!-- Streetfood - Steamer Stand - Zong Zi -->
+      <Text>Barraca de Vaporeira: Zong Zi</Text>
+    </Text>
+    <Text>
+      <GUID>1442715</GUID>      <!-- Streetfood - Steamer Stand - Special Dumpling Soup -->
+      <Text>Barraca de Vaporeira: Sopa Especial de Bolinhos</Text>
+    </Text>
+    <Text>
+      <GUID>1442716</GUID>      <!-- Streetfood - Dessert Stand (Blank) -->
+      <Text>Barraca de Doces</Text>
+    </Text>
+    <Text>
+      <GUID>1442717</GUID>      <!-- Streetfood - Dessert Stand - Dango -->
+      <Text>Barraca de Doces: Dango</Text>
+    </Text>
+    <Text>
+      <GUID>1442718</GUID>      <!-- Streetfood - Dessert Stand - Sweet Doufuhua -->
+      <Text>Barraca de Doces: Doufuhua Doce</Text>
+    </Text>
+    <Text>
+      <GUID>1442719</GUID>      <!-- Streetfood - Dessert Stand - Imagawayaki -->
+      <Text>Barraca de Doces: Imagawayaki</Text>
+    </Text>
+    <Text>
+      <GUID>1442720</GUID>      <!-- Streetfood - Dessert Stand - Tanghulu -->
+      <Text>Barraca de Doces: Tanghulu</Text>
+    </Text>
+    <Text>
+      <GUID>1442721</GUID>      <!-- Streetfood - Noodle Recipes -->
+      <Text>Receitas de Macarrão</Text>
+    </Text>
+    <Text>
+      <GUID>1442722</GUID>      <!-- Streetfood - Street Grill Recipes -->
+      <Text>Receitas de Churrasquinho</Text>
+    </Text>
+    <Text>
+      <GUID>1442723</GUID>      <!-- Streetfood - Steamer Recipes -->
+      <Text>Receitas de Vaporeira</Text>
+    </Text>
+    <Text>
+      <GUID>1442724</GUID>      <!-- Streetfood - Dessert Recipes -->
+      <Text>Receitas de Doces</Text>
+    </Text>
+    <!-- Factories -->
+    <Text>
+      <GUID>1441010</GUID>
+      <Text>Fábrica de Polímeros</Text>
+    </Text>
+    <Text>
+      <GUID>1441015</GUID>
+      <Text>Fábrica de Rádios</Text>
+    </Text>
+    <Text>
+      <GUID>1441016</GUID>
+      <Text>Montagem de Canetas</Text>
+    </Text>
+    <Text>
+      <GUID>1441020</GUID>
+      <Text>Laticínio Industrial</Text>
+    </Text>
+    <Text>
+      <GUID>1441290</GUID>
+      <Text>Alfaiataria de Coletes de Seda</Text>
+    </Text>
+    <Text>
+      <GUID>1441022</GUID>
+      <Text>Moinho de Pimenta</Text>
+    </Text>
+    <Text>
+      <GUID>1441025</GUID>
+      <Text>Padaria de Biscoitos de Caviar</Text>
+    </Text>
+    <Text>
+      <GUID>1441203</GUID>
+      <Text>Cultivo de Algas</Text>
+    </Text>
+    <Text>
+      <GUID>1441208</GUID>
+      <Text>Destilaria de Umeshu</Text>
+    </Text>
+    <Text>
+      <GUID>1441212</GUID>
+      <Text>Oficina de Chá</Text>
+    </Text>
+    <Text>
+      <GUID>1441259</GUID>
+      <Text>Chapeleiro</Text>
+    </Text>
+    <Text>
+      <GUID>1441215</GUID>
+      <Text>Fornos de Porcelana</Text>
+    </Text>
+    <Text>
+      <GUID>1441291</GUID>
+      <Text>Silvicultura de Bambu</Text>
+    </Text>
+    <Text>
+      <GUID>1441223</GUID>
+      <Text>Tecelagem de Seda</Text>
+    </Text>
+    <Text>
+      <GUID>1441226</GUID>
+      <Text>Cervejaria de Saquê</Text>
+    </Text>
+    <Text>
+      <GUID>1441260</GUID>
+      <Text>Pesqueiro de Arenque</Text>
+    </Text>
+    <Text>
+      <GUID>1441283</GUID>
+      <Text>Fábrica de Kotos</Text>
+    </Text>
+    <Text>
+      <GUID>1441308</GUID>
+      <Text>Alfaiataria de Quimonos</Text>
+    </Text>
+    <Text>
+      <GUID>1441021</GUID>
+      <Text>Plantação de Pimenta</Text>
+    </Text>
+    <Text>
+      <GUID>1441202</GUID>
+      <Text>Plantação de Arroz</Text>
+    </Text>
+    <Text>
+      <GUID>1441207</GUID>
+      <Text>Plantação de Ume</Text>
+    </Text>
+    <Text>
+      <GUID>1441211</GUID>
+      <Text>Plantação de Ervas de Chá</Text>
+    </Text>
+    <Text>
+      <GUID>1441257</GUID>
+      <Text>Cultivo de Cânhamo</Text>
+    </Text>
+    <Text>
+      <GUID>1441218</GUID>
+      <Text>Plantação de Amoreira</Text>
+    </Text>
+    <Text>
+      <GUID>1441229</GUID>
+      <Text>Criação de Patos</Text>
+    </Text>
+    <Text>
+      <GUID>1441232</GUID>
+      <Text>Apiário</Text>
+    </Text>
+    <Text>
+      <GUID>1441251</GUID>
+      <Text>Plantação de Soja</Text>
+    </Text>
+    <Text>
+      <GUID>1441281</GUID>
+      <Text>Plantação de Cártamo</Text>
+    </Text>
+    <Text>
+      <GUID>1441024</GUID>
+      <Text>Campo de Pimenta</Text>
+    </Text>
+    <Text>
+      <GUID>1441201</GUID>
+      <Text>Arrozal</Text>
+    </Text>
+    <Text>
+      <GUID>1441206</GUID>
+      <Text>Campo de Ume</Text>
+    </Text>
+    <Text>
+      <GUID>1441210</GUID>
+      <Text>Campo de Ervas de Chá</Text>
+    </Text>
+    <Text>
+      <GUID>1441258</GUID>
+      <Text>Campo de Cânhamo</Text>
+    </Text>
+    <Text>
+      <GUID>1441217</GUID>
+      <Text>Campo de Amoreira</Text>
+    </Text>
+    <Text>
+      <GUID>1441228</GUID>
+      <Text>Cercado de Patos</Text>
+    </Text>
+    <Text>
+      <GUID>1441231</GUID>
+      <Text>Colmeia</Text>
+    </Text>
+    <Text>
+      <GUID>1441252</GUID>
+      <Text>Campo de Soja</Text>
+    </Text>
+    <Text>
+      <GUID>1441282</GUID>
+      <Text>Campo de Cártamo</Text>
+    </Text>
+    <Text>
+      <GUID>1441213</GUID>
+      <Text>Mina de Caulim</Text>
+    </Text>
+    <Text>
+      <GUID>1441327</GUID>
+      <Text>Pedreira</Text>
+    </Text>
+    <Text>
+      <GUID>1441240</GUID>
+      <Text>Mina de Ferro</Text>
+    </Text>
+    <Text>
+      <GUID>1441239</GUID>
+      <Text>Mina de Irídio</Text>
+    </Text>
+    <Text>
+      <GUID>1441214</GUID>
+      <Text>Mina de Feldspato</Text>
+    </Text>
+    <Text>
+      <GUID>1441014</GUID>
+      <Text>Oficina de Usinagem: Detectores de Rádio</Text>
+    </Text>
+    <Text>
+      <GUID>1441023</GUID>
+      <Text>Oficina de Usinagem: Bicos de Caneta-tinteiro</Text>
+    </Text>
+    <Text>
+      <GUID>1441284</GUID>
+      <Text>Oficina de Usinagem: Cordas</Text>
+    </Text>
+    <Text>
+      <GUID>1441300</GUID>
+      <Text>Usina Química</Text>
+    </Text>
+    <Text>
+      <GUID>1441301</GUID>
+      <Text>Usina Química: Laca</Text>
+    </Text>
+    <Text>
+      <GUID>1441302</GUID>
+      <Text>Usina Química: Celuloide</Text>
+    </Text>
+    <Text>
+      <GUID>1441303</GUID>
+      <Text>Usina Química: Etanol</Text>
+    </Text>
+
+    <Text>
+        <GUID>1742100433</GUID>      <!-- Galena - Product -->
+        <Text>Galena</Text>
+    </Text>
+    <Text>
+        <GUID>1742100434</GUID>      <!-- Galena - Product - Description -->
+        <Text>Minério extraído nas profundezas das montanhas.</Text>
+    </Text>
+    <Text>
+        <GUID>1742100407</GUID>      <!-- Galena Mine - Module -->
+        <Text>Módulo de Galena</Text>
+    </Text>
+    <Text>
+        <GUID>1742100408</GUID>      <!-- Galena Mine - Module - Description -->
+        <Text>Construa ao lado de uma mina de ferro, cobre, zinco ou mina a céu aberto de ferro. Mineração de galena para chumbo.</Text>
+    </Text>
+    <Text>
+        <GUID>1742100494</GUID>      <!-- Digging deeper for Galena - Buff -->
+        <Text>Cavando mais fundo por Galena</Text>
+    </Text>
+    <Text>
+        <GUID>1742100495</GUID>      <!-- Digging deeper for Galena - Buff - Description -->
+        <Text>Há mais nas minas do que buscamos inicialmente. Cavamos mais fundo em busca de galena.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

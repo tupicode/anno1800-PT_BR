@@ -1,0 +1,302 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414016153</GUID>
+            <Text>Barco de Pesca</Text>
+        </Text>
+        <Text>
+            <GUID>1414016154</GUID>
+            <Text>Lorcha Atracada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016155</GUID>
+            <Text>Ponte</Text>
+        </Text>
+        <Text>
+            <GUID>1414016156</GUID>
+            <Text>Barris</Text>
+        </Text>
+        <Text>
+            <GUID>1414016157</GUID>
+            <Text>Bancos</Text>
+        </Text>
+        <Text>
+            <GUID>1414016158</GUID>
+            <Text>Barcos</Text>
+        </Text>
+        <Text>
+            <GUID>1414016159</GUID>
+            <Text>Barcos Grandes</Text>
+        </Text>
+        <Text>
+            <GUID>1414016160</GUID>
+            <Text>Armadilhas de Peixe</Text>
+        </Text>
+        <Text>
+            <GUID>1414016161</GUID>
+            <Text>Guindaste</Text>
+        </Text>
+        <Text>
+            <GUID>1414016162</GUID>
+            <Text>Árvore</Text>
+        </Text>
+        <Text>
+            <GUID>1414016163</GUID>
+            <Text>Cerejeira</Text>
+        </Text>
+        <Text>
+            <GUID>1414016164</GUID>
+            <Text>Pereira</Text>
+        </Text>
+        <Text>
+            <GUID>1414016165</GUID>
+            <Text>Pinheiro</Text>
+        </Text>
+        <Text>
+            <GUID>1414016166</GUID>
+            <Text>Salgueiro</Text>
+        </Text>
+        <Text>
+            <GUID>1414016167</GUID>
+            <Text>Armazém</Text>
+        </Text>
+        <Text>
+            <GUID>1414016168</GUID>
+            <Text>Hortênsia</Text>
+        </Text>
+        <Text>
+            <GUID>1414016169</GUID>
+            <Text>Treliça de Glicínia</Text>
+        </Text>
+        <Text>
+            <GUID>1414016170</GUID>
+            <Text>Koinobori</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016000</GUID>
+            <Text>Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016027</GUID>
+            <Text>Muro Nu</Text>
+        </Text>
+        <Text>
+            <GUID>1414016028</GUID>
+            <Text>Muro Emoldurado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016029</GUID>
+            <Text>Muro com Painéis</Text>
+        </Text>
+        <Text>
+            <GUID>1414016032</GUID>
+            <Text>Portão do Muro Nu</Text>
+        </Text>
+        <Text>
+            <GUID>1414016033</GUID>
+            <Text>Portão do Muro Emoldurado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016034</GUID>
+            <Text>Portão do Muro com Painéis</Text>
+        </Text>
+        <Text>
+            <GUID>1414016035</GUID>
+            <Text>Pinheiro (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016036</GUID>
+            <Text>Caqui (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016037</GUID>
+            <Text>Sagu (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016038</GUID>
+            <Text>Ginkgo (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016039</GUID>
+            <Text>Pera (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016040</GUID>
+            <Text>Musa Basjoo (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016041</GUID>
+            <Text>Sakura (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016042</GUID>
+            <Text>Salgueiro (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016043</GUID>
+            <Text>Bordo Momji (Pavimentado)</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016044</GUID>
+            <Text>Pinheiro</Text>
+        </Text>
+        <Text>
+            <GUID>1414016045</GUID>
+            <Text>Caqui</Text>
+        </Text>
+        <Text>
+            <GUID>1414016046</GUID>
+            <Text>Sagu</Text>
+        </Text>
+        <Text>
+            <GUID>1414016047</GUID>
+            <Text>Ginkgo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016048</GUID>
+            <Text>Pera</Text>
+        </Text>
+        <Text>
+            <GUID>1414016049</GUID>
+            <Text>Musa Basjoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016050</GUID>
+            <Text>Sakura</Text>
+        </Text>
+        <Text>
+            <GUID>1414016051</GUID>
+            <Text>Salgueiro</Text>
+        </Text>
+        <Text>
+            <GUID>1414016052</GUID>
+            <Text>Bordo Momji</Text>
+        </Text>
+        <Text>
+            <GUID>1414016053</GUID>
+            <Text>Sakura Chorona Pavimentada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016054</GUID>
+            <Text>Sakura Chorona</Text>
+        </Text>
+        <Text>
+            <GUID>1414016055</GUID>
+            <Text>Bambu</Text>
+        </Text>
+        <Text>
+            <GUID>1414016056</GUID>
+            <Text>Bambu (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016057</GUID>
+            <Text>Estátua de Buda</Text>
+        </Text>
+        <Text>
+            <GUID>1414016058</GUID>
+            <Text>Estátua de Dragão Pequena</Text>
+        </Text>
+        <Text>
+            <GUID>1414016059</GUID>
+            <Text>Estátua de Mandarim</Text>
+        </Text>
+        <Text>
+            <GUID>1414016060</GUID>
+            <Text>Estátua de Neko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016061</GUID>
+            <Text>Estátua Grande de Samurai</Text>
+        </Text>
+        <Text>
+            <GUID>1414016062</GUID>
+            <Text>Estátua de Dragão</Text>
+        </Text>
+        <Text>
+            <GUID>1414016063</GUID>
+            <Text>Estátua de Qilin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016064</GUID>
+            <Text>Lâmpadas Chochin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016065</GUID>
+            <Text>Lâmpada de Pedra Pavimentada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016066</GUID>
+            <Text>Lâmpada de Pedra</Text>
+        </Text>
+        <Text>
+            <GUID>1414016067</GUID>
+            <Text>Lâmpada de Madeira</Text>
+        </Text>
+        <Text>
+            <GUID>1414016068</GUID>
+            <Text>Pilar de Pedra Pavimentado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016069</GUID>
+            <Text>Pilar de Pedra</Text>
+        </Text>
+        <Text>
+            <GUID>1414016006</GUID>
+            <Text>Cascalho Rastrilhado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016007</GUID>
+            <Text>Logo da União em Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016008</GUID>
+            <Text>Yin Yang em Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016009</GUID>
+            <Text>Arbustos em Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016010</GUID>
+            <Text>Arbustos em Cascalho Rastrilhado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016011</GUID>
+            <Text>Buxo em Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016012</GUID>
+            <Text>Buxo em Cascalho Rastrilhado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016013</GUID>
+            <Text>Rochas em Cascalho Rastrilhado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016014</GUID>
+            <Text>Caminho de Pedra</Text>
+        </Text>
+        <Text>
+            <GUID>1414016015</GUID>
+            <Text>Caminho de Pedra Rastrilhado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016016</GUID>
+            <Text>Escultura em Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016021</GUID>
+            <Text>Arbustos Grandes em Cascalho</Text>
+        </Text>
+        <Text>
+            <GUID>1414016022</GUID>
+            <Text>Arbustos Grandes em Cascalho Rastrilhado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016023</GUID>
+            <Text>Rochas em Cascalho</Text>
+        </Text>
+    </ModOp>
+</ModOps>
